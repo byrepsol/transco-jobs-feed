@@ -1,0 +1,6097 @@
+{
+  "generated_at": "2026-07-10T07:16:35-05:00",
+  "engine_version": "0.2.0",
+  "calendar_mode": "merged-with-calendar",
+  "n_jobs": 245,
+  "records": [
+    {
+      "job_id": "880700",
+      "status": "completed",
+      "subject": "Update: Job 880700 Planned Outage and Maintenance Summary - Leidy Line Inspections",
+      "work_type": "pigging_ili",
+      "month": "2023-07",
+      "announced_start": "2023-07-06",
+      "announced_end": "2023-07-25",
+      "original_start": "2023-07-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9007682
+      ],
+      "loc_names": "LEIDY LINE AGGREGATE RECEIPT MP 101 E to W NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 13738378,
+      "last_update_ts": "2023-07-11T09:04:52",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "112058",
+      "status": "completed",
+      "subject": "Update - Job #112058 Planned Outage and Maintenance Summary - REVISED DATES and TSB",
+      "work_type": "other",
+      "month": "2023-07",
+      "announced_start": "2023-07-06",
+      "announced_end": "2023-07-23",
+      "original_start": "2023-07-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563,
+        1005046
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL; DURALDE M2856",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 900000,
+      "announced_cut_pct": 53.5,
+      "n_versions": 1,
+      "latest_delvid": 13761876,
+      "last_update_ts": "2023-07-21T09:22:23",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945703",
+      "status": "completed",
+      "subject": "Update Job 945703 Station 515 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-05",
+      "announced_end": "2023-10-01",
+      "original_start": "2023-09-05",
+      "date_basis": "stated",
+      "start_revisions": 3,
+      "loc_ids": [
+        9011600,
+        9007682
+      ],
+      "loc_names": "LEIDY LINE STATION 515 REC MP 81.7 W to E NL; LEIDY LINE AGGREGATE RECEIPT MP 101 E to W NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 1000000,
+      "announced_cut_pct": 28.3,
+      "n_versions": 5,
+      "latest_delvid": 13941425,
+      "last_update_ts": "2023-09-28T14:48:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945697",
+      "status": "completed",
+      "subject": "Update Job 945697 and 945698 Station 195 2023 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2023-09",
+      "announced_start": "2023-09-06",
+      "announced_end": "2023-10-20",
+      "original_start": "2023-09-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2150000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 5,
+      "latest_delvid": 13985000,
+      "last_update_ts": "2023-10-16T10:34:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945698",
+      "status": "completed",
+      "subject": "Update Job 945697 and 945698 Station 195 2023 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2023-09",
+      "announced_start": "2023-09-06",
+      "announced_end": "2023-10-20",
+      "original_start": "2023-09-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2150000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 5,
+      "latest_delvid": 13985000,
+      "last_update_ts": "2023-10-16T10:34:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "880738",
+      "status": "completed",
+      "subject": "Update Job 880738 & Job 351475 Station 70 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-08",
+      "announced_end": "2023-09-08",
+      "original_start": "2023-07-20",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011500
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 5,
+      "latest_delvid": 13901609,
+      "last_update_ts": "2023-09-13T15:23:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "351475",
+      "status": "completed",
+      "subject": "Update Job 880738 & Job 351475 Station 70 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-08",
+      "announced_end": "2023-09-08",
+      "original_start": "2023-09-08",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011500
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 13901609,
+      "last_update_ts": "2023-09-13T15:23:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945724",
+      "status": "completed",
+      "subject": "Job #945724 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-14",
+      "announced_end": "2023-09-22",
+      "original_start": "2023-09-14",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9004022,
+        9004762,
+        1003148
+      ],
+      "loc_names": "JACOBS BB M4605; LASALLE TILDEN; TILDEN PLANT",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 13919850,
+      "last_update_ts": "2023-09-21T12:49:46",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "393219",
+      "status": "completed",
+      "subject": "Update Job 393219 Station 100 2023 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2023-09",
+      "announced_start": "2023-09-18",
+      "announced_end": "2023-11-18",
+      "original_start": "2023-09-18",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4300000,
+      "announced_cut_pct": 30.0,
+      "n_versions": 3,
+      "latest_delvid": 14043333,
+      "last_update_ts": "2023-11-02T11:01:08",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "672814",
+      "status": "completed",
+      "subject": "Job #672814 Planned Outage and Maintenance - Al Cormier (9011381) Outage",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-21",
+      "announced_end": "2023-09-22",
+      "original_start": "2023-09-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011381
+      ],
+      "loc_names": "AL CORMIER M3664",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 13912373,
+      "last_update_ts": "2023-09-18T08:50:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "880658",
+      "status": "completed",
+      "subject": "Job #880658 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-09",
+      "announced_start": "2023-09-25",
+      "announced_end": "2023-10-04",
+      "original_start": "2023-09-25",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1005046
+      ],
+      "loc_names": "DURALDE M2856",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 13897615,
+      "last_update_ts": "2023-09-12T08:32:13",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "719033",
+      "status": "completed",
+      "subject": "Update Job #719033 and #382305 Station 60 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2023-10",
+      "announced_start": "2023-10-02",
+      "announced_end": "2023-10-23",
+      "original_start": "2023-10-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 13936972,
+      "last_update_ts": "2023-09-27T11:45:14",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "382305",
+      "status": "completed",
+      "subject": "Update Job #719033 and #382305 Station 60 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2023-10",
+      "announced_start": "2023-10-02",
+      "announced_end": "2023-10-23",
+      "original_start": "2023-10-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 13936972,
+      "last_update_ts": "2023-09-27T11:45:14",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945689",
+      "status": "completed",
+      "subject": "Update Job 945689 Delaware River R. 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-10",
+      "announced_start": "2023-10-06",
+      "announced_end": "2023-10-30",
+      "original_start": "2023-09-25",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [
+        9011600
+      ],
+      "loc_names": "LEIDY LINE STATION 515 REC MP 81.7 W to E NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 13956964,
+      "last_update_ts": "2023-10-04T12:28:05",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "183480",
+      "status": "completed",
+      "subject": "Update Job 183480 Station 160 2023 Planned Outage and Maintenance Summary - Completed",
+      "work_type": "other",
+      "month": "2023-10",
+      "announced_start": "2023-10-09",
+      "announced_end": "2023-12-07",
+      "original_start": "2023-10-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1900000,
+      "announced_cut_pct": 14.5,
+      "n_versions": 4,
+      "latest_delvid": 14133303,
+      "last_update_ts": "2023-12-07T08:46:33",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945707",
+      "status": "completed",
+      "subject": "Job #945707 Planned Outage and Maintenance ? Beaver Dam (1006743) Outage",
+      "work_type": "other",
+      "month": "2023-10",
+      "announced_start": "2023-10-09",
+      "announced_end": "2023-10-30",
+      "original_start": "2023-10-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006743
+      ],
+      "loc_names": "BGE-BEAVER DAM M4392",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 13960625,
+      "last_update_ts": "2023-10-05T15:14:51",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "495889",
+      "status": "completed",
+      "subject": "Update Job 495889 Washington Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-10",
+      "announced_start": "2023-10-16",
+      "announced_end": "2023-10-22",
+      "original_start": "2023-10-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 13974159,
+      "last_update_ts": "2023-10-11T12:56:51",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "30000",
+      "status": "completed",
+      "subject": "Update Job #30000 Main Line Inspections 2023 Planned Outage and Maintenance",
+      "work_type": "pigging_ili",
+      "month": "2023-10",
+      "announced_start": "2023-10-30",
+      "announced_end": "2023-11-09",
+      "original_start": "2023-10-30",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012743
+      ],
+      "loc_names": "MAINLINE MP 1568.16 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1900000,
+      "announced_cut_pct": 27.2,
+      "n_versions": 2,
+      "latest_delvid": 14022516,
+      "last_update_ts": "2023-10-26T14:54:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "812879",
+      "status": "completed",
+      "subject": "Job 812879 Mainline Inspections 40-45 2023 Planned Outage and Maintenance",
+      "work_type": "pigging_ili",
+      "month": "2023-11",
+      "announced_start": "2023-11-01",
+      "announced_end": "2023-11-09",
+      "original_start": "2023-11-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011140
+      ],
+      "loc_names": "MAINLINE MP 438.84 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 450000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 1,
+      "latest_delvid": 14007379,
+      "last_update_ts": "2023-10-24T08:42:54",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "330007",
+      "status": "completed",
+      "subject": "Update Job 330007 Main Line Inspections 2023 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2023-11",
+      "announced_start": "2023-11-13",
+      "announced_end": "2023-11-30",
+      "original_start": "2023-09-01",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2150000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 4,
+      "latest_delvid": 14071178,
+      "last_update_ts": "2023-11-14T08:16:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "897385",
+      "status": "completed",
+      "subject": "Job #897385 SWLA Lateral Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-12",
+      "announced_start": "2023-12-01",
+      "announced_end": "2023-12-09",
+      "original_start": "2023-12-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000225
+      ],
+      "loc_names": "GA 209 M1694",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14130699,
+      "last_update_ts": "2023-12-06T10:09:43",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "866278",
+      "status": "completed",
+      "subject": "Job 866278 and 124006 Station 195 and Station 175 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-12",
+      "announced_start": "2023-12-04",
+      "announced_end": "2023-12-08",
+      "original_start": "2023-12-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103,
+        9011520
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL; COMPRESSOR STATION 170 MP 1500 N to S NL",
+      "zones": "5; 6",
+      "announced_avail_cap_mmbtu": 1880000,
+      "announced_cut_pct": 27.7,
+      "n_versions": 1,
+      "latest_delvid": 14059124,
+      "last_update_ts": "2023-11-08T15:32:57",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "124006",
+      "status": "completed",
+      "subject": "Job 866278 and 124006 Station 195 and Station 175 2023 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2023-12",
+      "announced_start": "2023-12-04",
+      "announced_end": "2023-12-08",
+      "original_start": "2023-12-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103,
+        9011520
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL; COMPRESSOR STATION 170 MP 1500 N to S NL",
+      "zones": "5; 6",
+      "announced_avail_cap_mmbtu": 1880000,
+      "announced_cut_pct": 27.7,
+      "n_versions": 1,
+      "latest_delvid": 14059124,
+      "last_update_ts": "2023-11-08T15:32:57",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "897533",
+      "status": "completed",
+      "subject": "Job #897533 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2023-12",
+      "announced_start": "2023-12-12",
+      "announced_end": "2023-12-13",
+      "original_start": "2023-12-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1005046
+      ],
+      "loc_names": "DURALDE M2856",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14128140,
+      "last_update_ts": "2023-12-05T10:25:20",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "30006",
+      "status": "completed",
+      "subject": "Station 195 (Job 30006) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-03",
+      "announced_start": "2024-03-12",
+      "announced_end": "2024-03-14",
+      "original_start": "2024-03-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2150000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 1,
+      "latest_delvid": 14335523,
+      "last_update_ts": "2024-02-22T11:11:08",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "647515",
+      "status": "completed",
+      "subject": "Station 180 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-03",
+      "announced_start": "2024-03-22",
+      "announced_end": "2024-04-22",
+      "original_start": "2024-03-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011860
+      ],
+      "loc_names": "STATION 180 MP 1540 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14471847,
+      "last_update_ts": "2024-04-15T11:21:59",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "183484",
+      "status": "completed",
+      "subject": "Update - Station 160 (Job 183484) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-01",
+      "announced_end": "2024-05-13",
+      "original_start": "2024-04-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1800000,
+      "announced_cut_pct": 19.0,
+      "n_versions": 3,
+      "latest_delvid": 14527380,
+      "last_update_ts": "2024-05-02T09:27:33",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162874",
+      "status": "completed",
+      "subject": "Station 130 (Job #162874) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-01",
+      "announced_end": "2024-05-18",
+      "original_start": "2024-04-02",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012804
+      ],
+      "loc_names": "COMPRESSOR STATION 130 MP 1125 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2000000,
+      "announced_cut_pct": 48.8,
+      "n_versions": 2,
+      "latest_delvid": 14400221,
+      "last_update_ts": "2024-03-20T07:42:33",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "481980",
+      "status": "completed",
+      "subject": "Station 60 (Job 481980 & 481985) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-04",
+      "announced_start": "2024-04-02",
+      "announced_end": "2024-04-23",
+      "original_start": "2024-04-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000,
+        1006831
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL; CLINTON MIDLA M4399",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1200000,
+      "announced_cut_pct": 18.4,
+      "n_versions": 2,
+      "latest_delvid": 14472073,
+      "last_update_ts": "2024-04-15T12:19:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "481985",
+      "status": "completed",
+      "subject": "Station 60 (Job 481980 & 481985) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-04",
+      "announced_start": "2024-04-02",
+      "announced_end": "2024-04-23",
+      "original_start": "2024-04-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000,
+        1006831
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL; CLINTON MIDLA M4399",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1200000,
+      "announced_cut_pct": 18.4,
+      "n_versions": 2,
+      "latest_delvid": 14472073,
+      "last_update_ts": "2024-04-15T12:19:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162872",
+      "status": "completed",
+      "subject": "\ufffdStation 120 (Job #162872) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-02",
+      "announced_end": "2024-06-08",
+      "original_start": "2024-04-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012803
+      ],
+      "loc_names": "MAINLINE MP 1050.1 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2500000,
+      "announced_cut_pct": 44.6,
+      "n_versions": 1,
+      "latest_delvid": 14387527,
+      "last_update_ts": "2024-03-14T11:39:02",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41288",
+      "status": "completed",
+      "subject": "Job #41288 Fairless Lateral Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-04",
+      "announced_start": "2024-04-13",
+      "announced_end": "2024-04-18",
+      "original_start": "2024-04-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000564
+      ],
+      "loc_names": "FAIRLESS ENRGY M6309",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14370306,
+      "last_update_ts": "2024-03-06T11:04:17",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "30361",
+      "status": "completed",
+      "subject": "Job #30361 Algonquin-Centerville Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-04",
+      "announced_start": "2024-04-16",
+      "announced_end": "2024-04-23",
+      "original_start": "2024-04-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006561
+      ],
+      "loc_names": "ALGONQUIN-CTR M4402",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14478912,
+      "last_update_ts": "2024-04-17T16:55:17",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162868",
+      "status": "completed",
+      "subject": "\ufffdStation 90 (Job 162868) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-18",
+      "announced_end": "2024-05-23",
+      "original_start": "2024-04-18",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012923
+      ],
+      "loc_names": "STA 90 MP 812 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4300000,
+      "announced_cut_pct": 32.2,
+      "n_versions": 2,
+      "latest_delvid": 14578448,
+      "last_update_ts": "2024-05-17T09:06:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945682",
+      "status": "completed",
+      "subject": "Job #945682 Centerville Regulator Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-04",
+      "announced_start": "2024-04-22",
+      "announced_end": "2024-05-12",
+      "original_start": "2024-04-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012903
+      ],
+      "loc_names": "LEIDY LINE CENTERVILLE MP 13.74 TSB W to E NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 1500000,
+      "announced_cut_pct": 61.9,
+      "n_versions": 1,
+      "latest_delvid": 14370302,
+      "last_update_ts": "2024-03-06T10:58:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "33104",
+      "status": "completed",
+      "subject": "Station 175 (Job 33104) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-22",
+      "announced_end": "2024-05-06",
+      "original_start": "2024-04-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011520
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1500 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1900000,
+      "announced_cut_pct": 26.9,
+      "n_versions": 1,
+      "latest_delvid": 14408940,
+      "last_update_ts": "2024-03-22T12:05:04",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "223298",
+      "status": "completed",
+      "subject": "Station 515 (Job 223298) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-04",
+      "announced_start": "2024-04-22",
+      "announced_end": "2024-05-05",
+      "original_start": "2024-04-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012723,
+        9007682,
+        9011600
+      ],
+      "loc_names": "REL LATERAL MP 1.0 W to E NL; LEIDY LINE AGGREGATE RECEIPT MP 101 E to W NL; LEIDY LINE STATION 515 REC MP 81.7 W to E NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 300000,
+      "announced_cut_pct": 63.8,
+      "n_versions": 1,
+      "latest_delvid": 14417535,
+      "last_update_ts": "2024-03-25T16:12:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "296907",
+      "status": "completed",
+      "subject": "Update Station 190 (Job 296907) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-05",
+      "announced_start": "2024-05-01",
+      "announced_end": "2024-05-24",
+      "original_start": "2024-05-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2250000,
+      "announced_cut_pct": 16.2,
+      "n_versions": 4,
+      "latest_delvid": 14582543,
+      "last_update_ts": "2024-05-18T12:01:11",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "185598",
+      "status": "completed",
+      "subject": "Station 80 Update - Unplanned Maintenance",
+      "work_type": "compressor",
+      "month": "2024-05",
+      "announced_start": "2024-05-06",
+      "announced_end": "2024-06-19",
+      "original_start": "2024-05-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012483
+      ],
+      "loc_names": "COMPRESSOR STATION 80 MP 740.501 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2045000,
+      "announced_cut_pct": 40.2,
+      "n_versions": 2,
+      "latest_delvid": 14685998,
+      "last_update_ts": "2024-06-19T15:57:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "425118",
+      "status": "completed",
+      "subject": "UPDATE - Station 520 (Job 425118) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-05",
+      "announced_start": "2024-05-06",
+      "announced_end": "2024-08-16",
+      "original_start": "2024-05-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9004442
+      ],
+      "loc_names": "CANOE RUN M3605",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 14807720,
+      "last_update_ts": "2024-07-30T10:36:37",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "265065",
+      "status": "completed",
+      "subject": "Update SELA Offshore (Job #265065) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-05",
+      "announced_start": "2024-05-09",
+      "announced_end": "2024-06-12",
+      "original_start": "2024-04-08",
+      "date_basis": "stated",
+      "start_revisions": 5,
+      "loc_ids": [
+        9007323,
+        1007212,
+        1006241
+      ],
+      "loc_names": "SS 218-B M2912; SS 229/230 M2482; SS 269 M2539",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 12,
+      "latest_delvid": 14666644,
+      "last_update_ts": "2024-06-11T15:33:54",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "906387",
+      "status": "completed",
+      "subject": "Update Station 150 (Job 906387) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-05",
+      "announced_start": "2024-05-13",
+      "announced_end": "2024-06-07",
+      "original_start": "2024-05-06",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011801
+      ],
+      "loc_names": "STATION 150 MP 1287.111 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1400000,
+      "announced_cut_pct": 65.2,
+      "n_versions": 3,
+      "latest_delvid": 14575658,
+      "last_update_ts": "2024-05-30T08:46:47",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "108926",
+      "status": "completed",
+      "subject": "Station 100 (Job 108926) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-05",
+      "announced_start": "2024-05-20",
+      "announced_end": "2024-06-03",
+      "original_start": "2024-05-20",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4300000,
+      "announced_cut_pct": 30.0,
+      "n_versions": 1,
+      "latest_delvid": 14391764,
+      "last_update_ts": "2024-05-30T08:46:47",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "815976",
+      "status": "completed",
+      "subject": "Update Station 190 (Job 815976) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-05",
+      "announced_start": "2024-05-29",
+      "announced_end": "2024-05-31",
+      "original_start": "2024-05-28",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2150000,
+      "announced_cut_pct": 19.9,
+      "n_versions": 2,
+      "latest_delvid": 14618715,
+      "last_update_ts": "2024-05-30T08:46:47",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "945712",
+      "status": "completed",
+      "subject": "Transco Mainline ?C? (Job 945712) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-06",
+      "announced_start": "2024-06-04",
+      "announced_end": "2024-06-11",
+      "original_start": "2024-06-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011381
+      ],
+      "loc_names": "AL CORMIER M3664",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14632654,
+      "last_update_ts": "2024-05-31T10:58:43",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "557156",
+      "status": "completed",
+      "subject": "UPDATE - Station 175 (Job 557156) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-06",
+      "announced_start": "2024-06-06",
+      "announced_end": "2024-07-17",
+      "original_start": "2024-06-06",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [
+        9011520,
+        9012963
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1500 N to S NL; MAINLINE MP 1521.82 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1800000,
+      "announced_cut_pct": 30.7,
+      "n_versions": 3,
+      "latest_delvid": 14759290,
+      "last_update_ts": "2024-07-12T11:51:14",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "61895",
+      "status": "completed",
+      "subject": "\ufffdStation 120 (Job #61895) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-06",
+      "announced_start": "2024-06-10",
+      "announced_end": "2024-07-16",
+      "original_start": "2024-06-10",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012803
+      ],
+      "loc_names": "MAINLINE MP 1050.1 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14605167,
+      "last_update_ts": "2024-07-02T11:56:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "704825",
+      "status": "completed",
+      "subject": "Station 190 Line Outage (Job 704825) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-06",
+      "announced_start": "2024-06-11",
+      "announced_end": "2024-06-21",
+      "original_start": "2024-06-11",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 1750000,
+      "announced_cut_pct": 34.8,
+      "n_versions": 1,
+      "latest_delvid": 14605175,
+      "last_update_ts": "2024-06-19T15:57:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "40627",
+      "status": "completed",
+      "subject": "Station 60 Update",
+      "work_type": "compressor",
+      "month": "2024-06",
+      "announced_start": "2024-06-21",
+      "announced_end": "2024-06-26",
+      "original_start": "2024-05-06",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 775000,
+      "announced_cut_pct": 47.3,
+      "n_versions": 3,
+      "latest_delvid": 14689431,
+      "last_update_ts": "2024-06-19T15:08:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "464441",
+      "status": "completed",
+      "subject": "Update Station 185 (Job 464441) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-06",
+      "announced_start": "2024-06-24",
+      "announced_end": "2024-06-28",
+      "original_start": "2024-05-13",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012743
+      ],
+      "loc_names": "MAINLINE MP 1568.16 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1925000,
+      "announced_cut_pct": 26.2,
+      "n_versions": 2,
+      "latest_delvid": 14554652,
+      "last_update_ts": "2024-06-19T15:57:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "123181",
+      "status": "completed",
+      "subject": "Update Washington Storage Semi-Annual Outage: Job #123181 2024 Planned Outage and Maintenance",
+      "work_type": "other",
+      "month": "2024-06",
+      "announced_start": "2024-06-25",
+      "announced_end": "2024-06-27",
+      "original_start": "2024-05-14",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 14628551,
+      "last_update_ts": "2024-06-19T15:57:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "27287",
+      "status": "completed",
+      "subject": "Station 170 (Job 27287) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-07",
+      "announced_start": "2024-07-01",
+      "announced_end": "2024-07-03",
+      "original_start": "2024-07-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012163
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1457.97 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 2000000,
+      "announced_cut_pct": 22.9,
+      "n_versions": 1,
+      "latest_delvid": 14689551,
+      "last_update_ts": "2024-07-02T11:56:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41171",
+      "status": "completed",
+      "subject": "Job #41171-B Delmarva Power & Light Lateral Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-07",
+      "announced_start": "2024-07-01",
+      "announced_end": "2024-07-08",
+      "original_start": "2024-07-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003381,
+        1003447,
+        1003404
+      ],
+      "loc_names": "1003381; 1003447; 1003404",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14707889,
+      "last_update_ts": "2024-06-25T09:29:38",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "817695",
+      "status": "completed",
+      "subject": "Job 817695 South Texas Anomaly Digs",
+      "work_type": "anomaly_dig",
+      "month": "2024-07",
+      "announced_start": "2024-07-06",
+      "announced_end": "2024-09-25",
+      "original_start": "2024-07-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013184,
+        9013204
+      ],
+      "loc_names": "9013184; 9013204",
+      "zones": "",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 1,
+      "latest_delvid": 14924578,
+      "last_update_ts": "2024-09-12T15:00:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41198",
+      "status": "completed",
+      "subject": "Station 17 South Texas Anomaly Digs (Unplanned Maintenance)",
+      "work_type": "anomaly_dig",
+      "month": "2024-07",
+      "announced_start": "2024-07-06",
+      "announced_end": "2024-11-21",
+      "original_start": "2024-07-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013184,
+        9013204
+      ],
+      "loc_names": "9013184; 9013204",
+      "zones": "",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 2,
+      "latest_delvid": 15129020,
+      "last_update_ts": "2024-11-15T08:39:26",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "248187",
+      "status": "completed",
+      "subject": "Station 140 (Job 248187) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-07",
+      "announced_start": "2024-07-08",
+      "announced_end": "2024-07-22",
+      "original_start": "2024-07-08",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14691716,
+      "last_update_ts": "2024-07-02T11:56:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41135",
+      "status": "completed",
+      "subject": "Station 100 (Job #41135) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-07",
+      "announced_start": "2024-07-09",
+      "announced_end": "2024-07-09",
+      "original_start": "2024-07-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4300000,
+      "announced_cut_pct": 30.0,
+      "n_versions": 1,
+      "latest_delvid": 14718245,
+      "last_update_ts": "2024-07-02T11:56:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "228811",
+      "status": "completed",
+      "subject": "Job 228811 Station 190 Line Outage 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-07",
+      "announced_start": "2024-07-11",
+      "announced_end": "2024-07-18",
+      "original_start": "2024-07-11",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2300000,
+      "announced_cut_pct": 14.3,
+      "n_versions": 1,
+      "latest_delvid": 14721045,
+      "last_update_ts": "2024-07-02T11:56:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "557169",
+      "status": "completed",
+      "subject": "UPDATE - Station 175 (Job 557169) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-07",
+      "announced_start": "2024-07-15",
+      "announced_end": "2024-08-27",
+      "original_start": "2024-07-18",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011520,
+        9012963
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1500 N to S NL; MAINLINE MP 1521.82 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 2100000,
+      "announced_cut_pct": 19.2,
+      "n_versions": 3,
+      "latest_delvid": 14861686,
+      "last_update_ts": "2024-08-19T08:05:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "61892",
+      "status": "completed",
+      "subject": "Update: Station 120 (Job 61892) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-07",
+      "announced_start": "2024-07-22",
+      "announced_end": "2024-09-09",
+      "original_start": "2024-07-20",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012803
+      ],
+      "loc_names": "MAINLINE MP 1050.1 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 4,
+      "latest_delvid": 14893256,
+      "last_update_ts": "2024-09-12T15:00:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162876",
+      "status": "completed",
+      "subject": "UPDATE - Station 140 (Job 162876) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-07",
+      "announced_start": "2024-07-22",
+      "announced_end": "2024-10-04",
+      "original_start": "2024-07-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14810324,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "136579",
+      "status": "completed",
+      "subject": "Station 110 (Job 136579) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-08",
+      "announced_start": "2024-08-04",
+      "announced_end": "2024-08-29",
+      "original_start": "2024-08-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14769576,
+      "last_update_ts": "2024-08-09T14:38:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "30003",
+      "status": "completed",
+      "subject": "Update - Station 190 (Job 30003) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2024-08",
+      "announced_start": "2024-08-09",
+      "announced_end": "2024-08-27",
+      "original_start": "2024-08-08",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 1750000,
+      "announced_cut_pct": 34.8,
+      "n_versions": 3,
+      "latest_delvid": 14832852,
+      "last_update_ts": "2024-08-09T14:38:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "487433",
+      "status": "completed",
+      "subject": "Station 35 (Job 487433) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-08",
+      "announced_start": "2024-08-13",
+      "announced_end": "2024-08-22",
+      "original_start": "2024-08-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644,
+        9010879,
+        1006261,
+        1006014
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL; 9010879; NORTH MILTON M1628; BAMMEL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 1,
+      "latest_delvid": 14735250,
+      "last_update_ts": "2024-08-09T14:38:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "32955",
+      "status": "completed",
+      "subject": "Update: Station 170 (Job 32955) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-08",
+      "announced_start": "2024-08-16",
+      "announced_end": "2024-08-27",
+      "original_start": "2024-08-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012163
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1457.97 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 2000000,
+      "announced_cut_pct": 22.9,
+      "n_versions": 2,
+      "latest_delvid": 14830062,
+      "last_update_ts": "2024-08-09T14:38:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "48733",
+      "status": "completed",
+      "subject": "Station 35 Update - Unplanned Maintenance",
+      "work_type": "compressor",
+      "month": "2024-08",
+      "announced_start": "2024-08-23",
+      "announced_end": "2024-09-30",
+      "original_start": "2024-08-23",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14869963,
+      "last_update_ts": "2024-08-22T09:15:06",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "548015",
+      "status": "completed",
+      "subject": "Update: Station 120 (Job #548015) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-08",
+      "announced_start": "2024-08-26",
+      "announced_end": "2024-11-05",
+      "original_start": "2024-08-26",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2500000,
+      "announced_cut_pct": 44.6,
+      "n_versions": 8,
+      "latest_delvid": 15073999,
+      "last_update_ts": "2024-10-28T08:21:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "557180",
+      "status": "completed",
+      "subject": "UPDATE - Station 175 (Job 557180) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-08",
+      "announced_start": "2024-08-28",
+      "announced_end": "2024-10-07",
+      "original_start": "2024-08-28",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011520,
+        9012963
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1500 N to S NL; MAINLINE MP 1521.82 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1800000,
+      "announced_cut_pct": 30.7,
+      "n_versions": 2,
+      "latest_delvid": 14994221,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "440482",
+      "status": "completed",
+      "subject": "Update - Station 70 (Job 440482) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-08",
+      "announced_start": "2024-08-28",
+      "announced_end": "2024-08-30",
+      "original_start": "2024-08-28",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011500
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2125000,
+      "announced_cut_pct": 9.6,
+      "n_versions": 2,
+      "latest_delvid": 14880763,
+      "last_update_ts": "2024-08-26T08:58:26",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "43012",
+      "status": "completed",
+      "subject": "UPDATE 2- Job #43012 North New Jersey Lateral Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-09",
+      "announced_start": "2024-09-03",
+      "announced_end": "2024-10-05",
+      "original_start": "2024-09-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003091
+      ],
+      "loc_names": "1003091",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 14953253,
+      "last_update_ts": "2024-09-20T16:24:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "121649",
+      "status": "completed",
+      "subject": "Update - Station 150 (Job 121649) Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-09",
+      "announced_start": "2024-09-04",
+      "announced_end": "2024-10-01",
+      "original_start": "2024-09-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012983
+      ],
+      "loc_names": "COMPRESSOR STATION 155 MP 1326 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1400000,
+      "announced_cut_pct": 43.1,
+      "n_versions": 3,
+      "latest_delvid": 14986820,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "880665",
+      "status": "completed",
+      "subject": "UPDATE - Mainline C (Job 880665) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2024-09",
+      "announced_start": "2024-09-09",
+      "announced_end": "2024-10-18",
+      "original_start": "2024-09-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1001297
+      ],
+      "loc_names": "1001297",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14978193,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162884",
+      "status": "completed",
+      "subject": "UPDATE - Station 190 (Job 162884) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-09",
+      "announced_start": "2024-09-10",
+      "announced_end": "2024-09-14",
+      "original_start": "2024-09-10",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2145000,
+      "announced_cut_pct": 20.1,
+      "n_versions": 2,
+      "latest_delvid": 14929658,
+      "last_update_ts": "2024-09-12T15:00:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162127",
+      "status": "completed",
+      "subject": "Update 2: Station 110 (Job 162127) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-09",
+      "announced_start": "2024-09-13",
+      "announced_end": "2024-10-20",
+      "original_start": "2024-09-03",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 4,
+      "latest_delvid": 14978203,
+      "last_update_ts": "2024-09-27T09:05:32",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41154",
+      "status": "completed",
+      "subject": "Station 190 (Job 41154) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2024-09",
+      "announced_start": "2024-09-17",
+      "announced_end": "2024-09-24",
+      "original_start": "2024-09-17",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2180000,
+      "announced_cut_pct": 18.8,
+      "n_versions": 1,
+      "latest_delvid": 14852884,
+      "last_update_ts": "2024-09-12T15:00:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "134211",
+      "status": "completed",
+      "subject": "UPDATE 2 - Station 195 (Job 134211) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-09",
+      "announced_start": "2024-09-20",
+      "announced_end": "2024-09-30",
+      "original_start": "2024-09-23",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2265000,
+      "announced_cut_pct": 18.3,
+      "n_versions": 3,
+      "latest_delvid": 14978139,
+      "last_update_ts": "2024-09-27T08:54:17",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "732368",
+      "status": "completed",
+      "subject": "Job #732368 Algonquin-Centerville Planned Outage",
+      "work_type": "other",
+      "month": "2024-09",
+      "announced_start": "2024-09-23",
+      "announced_end": "2024-09-27",
+      "original_start": "2024-09-23",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006561
+      ],
+      "loc_names": "ALGONQUIN-CTR M4402",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 14880619,
+      "last_update_ts": "2024-09-12T15:00:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "675325",
+      "status": "completed",
+      "subject": "Update - Sabine River MLB Outage - Unplanned Maintenance",
+      "work_type": "anomaly_dig",
+      "month": "2024-09",
+      "announced_start": "2024-09-26",
+      "announced_end": "2025-02-18",
+      "original_start": "2024-10-15",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011480,
+        9011140
+      ],
+      "loc_names": "COMPRESSOR STATION 40 MP 389.19 S to N NL; MAINLINE MP 438.84 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 450000,
+      "announced_cut_pct": 22.4,
+      "n_versions": 3,
+      "latest_delvid": 15120525,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "729443",
+      "status": "completed",
+      "subject": "UPDATE - Job 729443 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-01",
+      "announced_end": "2024-10-03",
+      "original_start": "2024-10-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2300000,
+      "announced_cut_pct": 14.3,
+      "n_versions": 2,
+      "latest_delvid": 14979119,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "729444",
+      "status": "completed",
+      "subject": "UPDATE 2 - Job 729444 Station 185 MLD 2024 Planned Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-01",
+      "announced_end": "2024-10-10",
+      "original_start": "2024-10-05",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2300000,
+      "announced_cut_pct": 14.3,
+      "n_versions": 3,
+      "latest_delvid": 15007699,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "727159",
+      "status": "completed",
+      "subject": "UPDATE - Job 727159 Sta 195 MLD 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-02",
+      "announced_end": "2024-11-05",
+      "original_start": "2024-10-26",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2500000,
+      "announced_cut_pct": 9.8,
+      "n_versions": 3,
+      "latest_delvid": 15090132,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "250056",
+      "status": "completed",
+      "subject": "Update - Job 250056 Station 77 Eminence Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-10",
+      "announced_start": "2024-10-06",
+      "announced_end": "2024-10-18",
+      "original_start": "2024-10-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 14994385,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "729872",
+      "status": "completed",
+      "subject": "UPDATE 2 - Job 729872 Sta 175 MLC 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-08",
+      "announced_end": "2024-10-15",
+      "original_start": "2024-10-11",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011860
+      ],
+      "loc_names": "STATION 180 MP 1540 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 2067000,
+      "announced_cut_pct": 19.2,
+      "n_versions": 3,
+      "latest_delvid": 15007705,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162877",
+      "status": "completed",
+      "subject": "UPDATE Job 162877 Station 145 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-14",
+      "announced_end": "2024-11-13",
+      "original_start": "2024-10-14",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1000123
+      ],
+      "loc_names": "1000123",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 15104396,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "162885",
+      "status": "completed",
+      "subject": "Station 195 (Job 162885) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-10",
+      "announced_start": "2024-10-21",
+      "announced_end": "2024-10-31",
+      "original_start": "2024-10-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2270000,
+      "announced_cut_pct": 18.1,
+      "n_versions": 1,
+      "latest_delvid": 14927306,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41201",
+      "status": "completed",
+      "subject": "Subject:Station 100 (Job 41201) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2024-10",
+      "announced_start": "2024-10-21",
+      "announced_end": "2024-10-30",
+      "original_start": "2024-10-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 5147000,
+      "announced_cut_pct": 16.3,
+      "n_versions": 1,
+      "latest_delvid": 14952559,
+      "last_update_ts": "2024-10-16T08:42:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "752275",
+      "status": "completed",
+      "subject": "Update - Job 752275 Washington Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2024-11",
+      "announced_start": "2024-11-01",
+      "announced_end": "2024-11-07",
+      "original_start": "2024-10-29",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 15078947,
+      "last_update_ts": "2025-09-09T09:43:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41165",
+      "status": "completed",
+      "subject": "Update Job #41165 Station 80 to Station 100 MLC Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2024-11",
+      "announced_start": "2024-11-04",
+      "announced_end": "2024-11-20",
+      "original_start": "2024-11-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012923
+      ],
+      "loc_names": "STA 90 MP 812 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4450000,
+      "announced_cut_pct": 29.8,
+      "n_versions": 2,
+      "latest_delvid": 15124029,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "909867",
+      "status": "completed",
+      "subject": "(Updated) Job #909867 MLC Mississippi River to Sta 65 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2024-11",
+      "announced_start": "2024-11-04",
+      "announced_end": "2024-11-08",
+      "original_start": "2024-11-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1325000,
+      "announced_cut_pct": 9.9,
+      "n_versions": 2,
+      "latest_delvid": 15087150,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "455422",
+      "status": "completed",
+      "subject": "Update - Station 80 (Job 455422) Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-11",
+      "announced_start": "2024-11-09",
+      "announced_end": "2024-11-18",
+      "original_start": "2024-09-01",
+      "date_basis": "stated",
+      "start_revisions": 3,
+      "loc_ids": [
+        9012483
+      ],
+      "loc_names": "COMPRESSOR STATION 80 MP 740.501 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2300000,
+      "announced_cut_pct": 32.8,
+      "n_versions": 7,
+      "latest_delvid": 15120805,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "656717",
+      "status": "completed",
+      "subject": "Station 50 (Job 656717) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-11",
+      "announced_start": "2024-11-15",
+      "announced_end": "2024-11-25",
+      "original_start": "2024-11-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1100000,
+      "announced_cut_pct": 43.1,
+      "n_versions": 1,
+      "latest_delvid": 15027792,
+      "last_update_ts": "2025-01-22T15:47:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "258532",
+      "status": "completed",
+      "subject": "Job #258532 Station 175 Planned Outage and Maintenance Summary\ufffd",
+      "work_type": "anomaly_dig",
+      "month": "2024-11",
+      "announced_start": "2024-11-16",
+      "announced_end": "2024-11-19",
+      "original_start": "2024-11-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011520
+      ],
+      "loc_names": "COMPRESSOR STATION 170 MP 1500 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 2264000,
+      "announced_cut_pct": 12.9,
+      "n_versions": 1,
+      "latest_delvid": 15065902,
+      "last_update_ts": "2024-11-20T10:29:58",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41163",
+      "status": "completed",
+      "subject": "Update-Job #41163 Station 90 to Station 100 MLB Planned Outage and Maintenance",
+      "work_type": "pigging_ili",
+      "month": "2024-12",
+      "announced_start": "2024-12-04",
+      "announced_end": "2024-12-09",
+      "original_start": "2024-12-02",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012923
+      ],
+      "loc_names": "STA 90 MP 812 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 5607000,
+      "announced_cut_pct": 11.6,
+      "n_versions": 5,
+      "latest_delvid": 15177572,
+      "last_update_ts": "2024-12-13T09:50:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41056",
+      "status": "completed",
+      "subject": "Update - MLD Immediate Anomaly Dig (Completed)",
+      "work_type": "anomaly_dig",
+      "month": "2024-12",
+      "announced_start": "2024-12-10",
+      "announced_end": "2025-04-30",
+      "original_start": "2024-12-02",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011500,
+        1000387
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL; COLLINS E M3466",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2350000,
+      "announced_cut_pct": 0.0,
+      "n_versions": 5,
+      "latest_delvid": 15681186,
+      "last_update_ts": "2025-05-21T11:40:05",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "41170",
+      "status": "completed",
+      "subject": "COMPLETE- Unplanned Caldwell Loop Anomaly Dig Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-12",
+      "announced_start": "2024-12-14",
+      "announced_end": "2024-12-20",
+      "original_start": "2024-12-14",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1001300
+      ],
+      "loc_names": "LINDEN MP 1808.191 S to N NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 4,
+      "latest_delvid": 15208275,
+      "last_update_ts": "2024-12-13T07:13:16",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933927",
+      "status": "completed",
+      "subject": "Station 50 (Job 933927) 2024 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2024-12",
+      "announced_start": "2024-12-16",
+      "announced_end": "2024-12-20",
+      "original_start": "2024-12-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1100000,
+      "announced_cut_pct": 43.1,
+      "n_versions": 1,
+      "latest_delvid": 15178513,
+      "last_update_ts": "2024-12-16T09:29:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933923",
+      "status": "completed",
+      "subject": "Update - Station 35 (Job 933923/933924) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-01",
+      "announced_start": "2025-01-16",
+      "announced_end": "2025-02-03",
+      "original_start": "2025-01-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 15286706,
+      "last_update_ts": "2025-02-07T12:23:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933924",
+      "status": "completed",
+      "subject": "Update - Station 35 (Job 933923/933924) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-01",
+      "announced_start": "2025-01-16",
+      "announced_end": "2025-02-03",
+      "original_start": "2025-01-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15286706,
+      "last_update_ts": "2025-01-09T14:28:25",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933929",
+      "status": "completed",
+      "subject": "Station 50 (Job 933929) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-02",
+      "announced_start": "2025-02-01",
+      "announced_end": "2025-02-23",
+      "original_start": "2025-02-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1100000,
+      "announced_cut_pct": 43.1,
+      "n_versions": 1,
+      "latest_delvid": 15323710,
+      "last_update_ts": "2025-02-07T12:23:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1075459",
+      "status": "completed",
+      "subject": "Update: Station 195 (Job 1075459) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-02",
+      "announced_start": "2025-02-03",
+      "announced_end": "2025-02-11",
+      "original_start": "2025-02-08",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011280,
+        9012103
+      ],
+      "loc_names": "9011280; COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2173000,
+      "announced_cut_pct": 21.6,
+      "n_versions": 4,
+      "latest_delvid": 15362958,
+      "last_update_ts": "2025-02-07T12:23:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1008461",
+      "status": "completed",
+      "subject": "Station 80 (Job 1008461) Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-02",
+      "announced_start": "2025-02-10",
+      "announced_end": "2025-02-15",
+      "original_start": "2025-02-10",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012483
+      ],
+      "loc_names": "COMPRESSOR STATION 80 MP 740.501 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15331495,
+      "last_update_ts": "2025-02-07T12:23:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933925",
+      "status": "completed",
+      "subject": "Update - 35B40 - Station 40 (Job 933925) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-02",
+      "announced_start": "2025-02-14",
+      "announced_end": "2025-03-01",
+      "original_start": "2025-02-14",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9001880,
+        9003240
+      ],
+      "loc_names": "BINGLE #1 M1720; HULL-MERCHANT M1745",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 15436698,
+      "last_update_ts": "2025-02-28T12:40:28",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1088505",
+      "status": "completed",
+      "subject": "Update - Job 1088505 MLA near Station 100 Unplanned Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-02",
+      "announced_start": "2025-02-21",
+      "announced_end": "2025-02-22",
+      "original_start": "2025-01-24",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 5472000,
+      "announced_cut_pct": 11.0,
+      "n_versions": 5,
+      "latest_delvid": 15391009,
+      "last_update_ts": "2025-02-13T14:04:09",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "109195",
+      "status": "completed",
+      "subject": "UPDATE - Mainline E 100E10 ? 105E10 (Job 109195) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-03",
+      "announced_start": "2025-03-11",
+      "announced_end": "2025-03-24",
+      "original_start": "2025-03-11",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 5217000,
+      "announced_cut_pct": 15.1,
+      "n_versions": 2,
+      "latest_delvid": 15491367,
+      "last_update_ts": "2025-03-21T08:53:29",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933928",
+      "status": "completed",
+      "subject": "Mainline B 50B10 - LC723 (Job 933928) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-03",
+      "announced_start": "2025-03-14",
+      "announced_end": "2025-04-10",
+      "original_start": "2025-03-14",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1509000,
+      "announced_cut_pct": 22.0,
+      "n_versions": 1,
+      "latest_delvid": 15374115,
+      "last_update_ts": "2025-02-07T09:31:52",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "133808",
+      "status": "completed",
+      "subject": "Station 195 (Job #133808) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-03",
+      "announced_start": "2025-03-24",
+      "announced_end": "2025-03-27",
+      "original_start": "2025-03-24",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2300000,
+      "announced_cut_pct": 17.0,
+      "n_versions": 1,
+      "latest_delvid": 15436110,
+      "last_update_ts": "2025-03-13T15:08:04",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1077373",
+      "status": "completed",
+      "subject": "Station 190 (Job 1077373) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-03",
+      "announced_start": "2025-03-31",
+      "announced_end": "2025-04-03",
+      "original_start": "2025-03-31",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2200000,
+      "announced_cut_pct": 18.0,
+      "n_versions": 1,
+      "latest_delvid": 15480169,
+      "last_update_ts": "2025-04-17T12:14:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1075439",
+      "status": "completed",
+      "subject": "Job #1075439 Station 120 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-04",
+      "announced_start": "2025-04-01",
+      "announced_end": "2025-04-10",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012803
+      ],
+      "loc_names": "MAINLINE MP 1050.1 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3338000,
+      "announced_cut_pct": 26.0,
+      "n_versions": 2,
+      "latest_delvid": 15443872,
+      "last_update_ts": "2025-04-17T12:14:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "153635",
+      "status": "completed",
+      "subject": "Job 153635 Station 100 Compressor Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-04",
+      "announced_start": "2025-04-01",
+      "announced_end": "2025-04-10",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012503
+      ],
+      "loc_names": "Compressor Station 100 MP 890.591 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 5162000,
+      "announced_cut_pct": 16.0,
+      "n_versions": 2,
+      "latest_delvid": 15443874,
+      "last_update_ts": "2025-04-17T12:14:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "737886",
+      "status": "completed",
+      "subject": "Job #737885/737886 Station 115 Compressors Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-04",
+      "announced_start": "2025-04-01",
+      "announced_end": "2025-04-30",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3869000,
+      "announced_cut_pct": 14.3,
+      "n_versions": 4,
+      "latest_delvid": 15579482,
+      "last_update_ts": "2025-04-18T11:32:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "89639",
+      "status": "completed",
+      "subject": "Job #89639 Station 505 MLA Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-04",
+      "announced_start": "2025-04-01",
+      "announced_end": "2025-04-19",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012903
+      ],
+      "loc_names": "LEIDY LINE CENTERVILLE MP 13.74 TSB W to E NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15443879,
+      "last_update_ts": "2025-04-17T12:14:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1077647",
+      "status": "completed",
+      "subject": "Update - Transco (Job 1077647) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "tie_in",
+      "month": "2025-04",
+      "announced_start": "2025-04-12",
+      "announced_end": "2025-04-27",
+      "original_start": "2025-04-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013023
+      ],
+      "loc_names": "BRUNSWICK / GREENSVILLE VAD",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 15600289,
+      "last_update_ts": "2025-04-24T09:08:16",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "33862",
+      "status": "completed",
+      "subject": "Update - Washington Storage Semi-Annual (Job 33862) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-04",
+      "announced_start": "2025-04-22",
+      "announced_end": "2025-04-29",
+      "original_start": "2025-04-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 15589481,
+      "last_update_ts": "2025-04-22T10:36:17",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933938",
+      "status": "completed",
+      "subject": "UPDATE - Job 933938 Station 110 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-04",
+      "announced_start": "2025-04-22",
+      "announced_end": "2025-04-30",
+      "original_start": "2025-04-22",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012504
+      ],
+      "loc_names": "Compressor Station 110 MP 969.5 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3633000,
+      "announced_cut_pct": 24.1,
+      "n_versions": 2,
+      "latest_delvid": 15579486,
+      "last_update_ts": "2025-04-18T11:35:07",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "113157",
+      "status": "completed",
+      "subject": "Update - Job 113157 Station 77 Eminence Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-05",
+      "announced_start": "2025-05-05",
+      "announced_end": "2025-05-10",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 15640075,
+      "last_update_ts": "2025-05-06T15:40:39",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "880760",
+      "status": "completed",
+      "subject": "Update - Job #880760/1076732 Station 115 and MLD DOT Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-05",
+      "announced_start": "2025-05-06",
+      "announced_end": "2025-06-12",
+      "original_start": "2025-05-06",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3360000,
+      "announced_cut_pct": 25.5,
+      "n_versions": 2,
+      "latest_delvid": 15724622,
+      "last_update_ts": "2025-06-06T10:40:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1077742",
+      "status": "completed",
+      "subject": "Transco (Job 1077742) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "tie_in",
+      "month": "2025-05",
+      "announced_start": "2025-05-19",
+      "announced_end": "2025-05-26",
+      "original_start": "2025-05-19",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013244,
+        9008726,
+        1000941,
+        1003044
+      ],
+      "loc_names": "AHOSKIE VIRTUAL; PLEASANT HILL VIRTUAL; EMPORIA WALDROP; PANDA ENERGY M7319",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15401049,
+      "last_update_ts": "2025-04-30T11:39:49",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "153894",
+      "status": "completed",
+      "subject": "Update - Subject: Job #153894 Station 90 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-05",
+      "announced_start": "2025-05-19",
+      "announced_end": "2025-06-12",
+      "original_start": "2025-05-19",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012923
+      ],
+      "loc_names": "STA 90 MP 812 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 4537000,
+      "announced_cut_pct": 28.4,
+      "n_versions": 3,
+      "latest_delvid": 15729790,
+      "last_update_ts": "2025-06-06T10:40:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "750789",
+      "status": "completed",
+      "subject": "Update - Job #750789 Station 120 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-03",
+      "announced_end": "2025-07-01",
+      "original_start": "2025-06-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012803
+      ],
+      "loc_names": "MAINLINE MP 1050.1 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3113000,
+      "announced_cut_pct": 31.0,
+      "n_versions": 2,
+      "latest_delvid": 15730018,
+      "last_update_ts": "2025-07-24T15:35:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "366224",
+      "status": "completed",
+      "subject": "Update - Station 33 (Job 366224) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-03",
+      "announced_end": "2025-06-04",
+      "original_start": "2025-06-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010878
+      ],
+      "loc_names": "9010878",
+      "zones": "",
+      "announced_avail_cap_mmbtu": 650000,
+      "announced_cut_pct": 53.8,
+      "n_versions": 2,
+      "latest_delvid": 15705281,
+      "last_update_ts": "2025-06-06T10:40:01",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "918302",
+      "status": "completed",
+      "subject": "Update - Job 918302 Station 70 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-10",
+      "announced_end": "2025-06-30",
+      "original_start": "2025-06-10",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011500
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 1804000,
+      "announced_cut_pct": 23.2,
+      "n_versions": 2,
+      "latest_delvid": 15805552,
+      "last_update_ts": "2025-06-27T12:57:15",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "737885",
+      "status": "completed",
+      "subject": "Update - Job #1077537, #737885 & #737888 Station 115 MLA DOT Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-16",
+      "announced_end": "2025-08-18",
+      "original_start": "2025-04-01",
+      "date_basis": "stated",
+      "start_revisions": 2,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3874000,
+      "announced_cut_pct": 14.1,
+      "n_versions": 8,
+      "latest_delvid": 15865024,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1077537",
+      "status": "completed",
+      "subject": "Update - Job #1077537, #737885 & #737888 Station 115 MLA DOT Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-16",
+      "announced_end": "2025-08-18",
+      "original_start": "2025-06-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3874000,
+      "announced_cut_pct": 14.1,
+      "n_versions": 4,
+      "latest_delvid": 15865024,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "737888",
+      "status": "completed",
+      "subject": "Update - Job #1077537, #737885 & #737888 Station 115 MLA DOT Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-06",
+      "announced_start": "2025-06-16",
+      "announced_end": "2025-08-18",
+      "original_start": "2025-06-17",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9013083
+      ],
+      "loc_names": "MAINLINE MP 1031 TSB S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3874000,
+      "announced_cut_pct": 14.1,
+      "n_versions": 5,
+      "latest_delvid": 15865024,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "565065",
+      "status": "completed",
+      "subject": "Station 17 MLA (Job 565065) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-07",
+      "announced_start": "2025-07-01",
+      "announced_end": "2025-07-01",
+      "original_start": "2025-07-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010938
+      ],
+      "loc_names": "M/L STATION 17 TSB 1 MP 148 S to N NL",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": 225000,
+      "announced_cut_pct": 0.0,
+      "n_versions": 1,
+      "latest_delvid": 15775415,
+      "last_update_ts": "2025-07-24T15:35:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071377",
+      "status": "completed",
+      "subject": "Job #1071377 Station 80 to Station 90 MLA ILI Runs Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-07",
+      "announced_start": "2025-07-07",
+      "announced_end": "2025-07-16",
+      "original_start": "2025-07-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012483
+      ],
+      "loc_names": "COMPRESSOR STATION 80 MP 740.501 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2732000,
+      "announced_cut_pct": 20.1,
+      "n_versions": 1,
+      "latest_delvid": 15730779,
+      "last_update_ts": "2025-07-24T15:35:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "153798",
+      "status": "completed",
+      "subject": "UPDATE Job #153798 Station 175 to 170 MLC ILI Runs Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-07",
+      "announced_start": "2025-07-08",
+      "announced_end": "2025-09-03",
+      "original_start": "2025-07-08",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012963
+      ],
+      "loc_names": "MAINLINE MP 1521.82 TSB N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1850000,
+      "announced_cut_pct": 28.8,
+      "n_versions": 2,
+      "latest_delvid": 15953483,
+      "last_update_ts": "2025-08-13T12:11:24",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "160129",
+      "status": "completed",
+      "subject": "Job #160129 Milltown 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-07",
+      "announced_start": "2025-07-08",
+      "announced_end": "2025-08-26",
+      "original_start": "2025-07-08",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003319,
+        1003339,
+        1003320,
+        9009769
+      ],
+      "loc_names": "1003319; 1003339; SEWAREN - PARKWAY M6033; 9009769",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15740438,
+      "last_update_ts": "2025-06-09T11:11:48",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "165845",
+      "status": "completed",
+      "subject": "Update - Station 35 MLA (Job 165836, 165845 & 165843) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-07",
+      "announced_start": "2025-07-15",
+      "announced_end": "2025-07-30",
+      "original_start": "2025-07-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644,
+        9010879,
+        1006261,
+        1006014,
+        1005390
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL; 9010879; NORTH MILTON M1628; BAMMEL; CROSS CREEK M1626",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 350000,
+      "announced_cut_pct": 50.6,
+      "n_versions": 5,
+      "latest_delvid": 15900690,
+      "last_update_ts": "2025-07-28T08:30:27",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "165836",
+      "status": "completed",
+      "subject": "Update - Station 35 MLA (Job 165836, 165845 & 165843) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-07",
+      "announced_start": "2025-07-15",
+      "announced_end": "2025-07-30",
+      "original_start": "2025-07-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644,
+        1006261,
+        1006014,
+        1005390
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL; NORTH MILTON M1628; BAMMEL; CROSS CREEK M1626",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 350000,
+      "announced_cut_pct": 50.6,
+      "n_versions": 4,
+      "latest_delvid": 15900690,
+      "last_update_ts": "2025-07-28T08:30:27",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "165843",
+      "status": "completed",
+      "subject": "Update - Station 35 MLA (Job 165836, 165845 & 165843) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-07",
+      "announced_start": "2025-07-15",
+      "announced_end": "2025-07-30",
+      "original_start": "2025-07-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644,
+        1006261,
+        1006014,
+        1005390
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL; NORTH MILTON M1628; BAMMEL; CROSS CREEK M1626",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 350000,
+      "announced_cut_pct": 50.6,
+      "n_versions": 3,
+      "latest_delvid": 15900690,
+      "last_update_ts": "2025-07-28T08:30:27",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1081200",
+      "status": "completed",
+      "subject": "MLV 40B20 to Station 45 (Job #1081200) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-07",
+      "announced_start": "2025-07-16",
+      "announced_end": "2025-07-22",
+      "original_start": "2025-07-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011000
+      ],
+      "loc_names": "JASPER - MIDCOAST M3675",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15840457,
+      "last_update_ts": "2025-07-24T15:35:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "933926",
+      "status": "completed",
+      "subject": "Station 50 (Job 933926) CS Outage 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-07",
+      "announced_start": "2025-07-17",
+      "announced_end": "2025-07-31",
+      "original_start": "2025-02-01",
+      "date_basis": "stated",
+      "start_revisions": 3,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1575000,
+      "announced_cut_pct": 18.6,
+      "n_versions": 4,
+      "latest_delvid": 15791767,
+      "last_update_ts": "2025-07-24T15:35:03",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "267481",
+      "status": "completed",
+      "subject": "Station 50 (Job 933926) CS Outage 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-07",
+      "announced_start": "2025-07-17",
+      "announced_end": "2025-07-31",
+      "original_start": "2025-07-17",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012563
+      ],
+      "loc_names": "COMPRESSOR STATION 50 MP 517.25 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1575000,
+      "announced_cut_pct": 18.6,
+      "n_versions": 1,
+      "latest_delvid": 15791767,
+      "last_update_ts": "2025-06-24T13:18:00",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071375",
+      "status": "completed",
+      "subject": "Station 30 to Station 35 MLA Pig Runs (Job 1071375) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-08",
+      "announced_start": "2025-08-05",
+      "announced_end": "2025-08-07",
+      "original_start": "2025-07-16",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011000,
+        9011841,
+        9011644
+      ],
+      "loc_names": "JASPER - MIDCOAST M3675; MAINLINE MP 258.66 N to S NL; MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 100000,
+      "announced_cut_pct": 75.0,
+      "n_versions": 2,
+      "latest_delvid": 15840445,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "328966",
+      "status": "completed",
+      "subject": "Updated - Station 50 (Job 328966) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-08",
+      "announced_start": "2025-08-05",
+      "announced_end": "2025-08-13",
+      "original_start": "2025-08-05",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013363,
+        1006923
+      ],
+      "loc_names": "COMPRESSOR STATION W 50 MP 517.23 S to N NL; MAMOU / DURALDE II",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1100000,
+      "announced_cut_pct": 28.4,
+      "n_versions": 2,
+      "latest_delvid": 15941351,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "565115",
+      "status": "completed",
+      "subject": "Update - Station 190 MU13 (Job 565115) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-08",
+      "announced_start": "2025-08-08",
+      "announced_end": "2025-08-09",
+      "original_start": "2025-08-08",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2145000,
+      "announced_cut_pct": 20.1,
+      "n_versions": 2,
+      "latest_delvid": 15864215,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1081188",
+      "status": "completed",
+      "subject": "Updated - Station 17 MLA DOT (Job 1081188) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-08",
+      "announced_start": "2025-08-12",
+      "announced_end": "2025-08-19",
+      "original_start": "2025-08-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010938,
+        9013004,
+        9011582,
+        1008773,
+        9010420,
+        9011900
+      ],
+      "loc_names": "M/L STATION 17 TSB 1 MP 148 S to N NL; PECAN VERDE M3680; BANQUETE HUB I/C; KING RANCH M1637; AGUA DULCE I/C; WHISTLER M3676",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 2,
+      "latest_delvid": 15966424,
+      "last_update_ts": "2025-08-22T09:43:35",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071384",
+      "status": "completed",
+      "subject": "Unplanned Maintenance - 190A0 to 195A10 Mainline A Immediate Integrity Dig",
+      "work_type": "pigging_ili",
+      "month": "2025-08",
+      "announced_start": "2025-08-15",
+      "announced_end": "2025-09-03",
+      "original_start": "2025-08-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 16002650,
+      "last_update_ts": "2025-08-29T07:35:11",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071403",
+      "status": "completed",
+      "subject": "Update - Unplanned McMullen Lateral Outage 2025 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-09",
+      "announced_start": "2025-09-09",
+      "announced_end": "2025-09-25",
+      "original_start": "2025-09-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013404,
+        9013403
+      ],
+      "loc_names": "9013404; 9013403",
+      "zones": "",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 2,
+      "latest_delvid": 16052829,
+      "last_update_ts": "2025-09-17T09:46:10",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "249566",
+      "status": "completed",
+      "subject": "Update - Job 249566 Station 70 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2025-09",
+      "announced_start": "2025-09-16",
+      "announced_end": "2025-09-23",
+      "original_start": "2025-09-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011500
+      ],
+      "loc_names": "COMPRESSOR STATION 70 MP 662 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 2000000,
+      "announced_cut_pct": 14.9,
+      "n_versions": 2,
+      "latest_delvid": 16056913,
+      "last_update_ts": "2025-09-18T15:09:16",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "928446",
+      "status": "completed",
+      "subject": "Station 190 MLD/Station (Job #928446) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-09",
+      "announced_start": "2025-09-16",
+      "announced_end": "2025-10-01",
+      "original_start": "2025-09-16",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 1839000,
+      "announced_cut_pct": 31.5,
+      "n_versions": 1,
+      "latest_delvid": 15974797,
+      "last_update_ts": "2025-09-30T10:28:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1075438",
+      "status": "completed",
+      "subject": "Update - Job 1075438 Station 110 HS 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-09",
+      "announced_start": "2025-09-20",
+      "announced_end": "2025-10-10",
+      "original_start": "2025-06-17",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9012504
+      ],
+      "loc_names": "Compressor Station 110 MP 969.5 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3498000,
+      "announced_cut_pct": 26.9,
+      "n_versions": 3,
+      "latest_delvid": 16019521,
+      "last_update_ts": "2025-09-30T10:28:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071392",
+      "status": "completed",
+      "subject": ": Job #1071392 Station 170 to 160 MLC ILI Runs Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-09",
+      "announced_start": "2025-09-23",
+      "announced_end": "2025-10-07",
+      "original_start": "2025-09-23",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011240
+      ],
+      "loc_names": "COMPRESSOR STATION 165 S MP 1412 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1947000,
+      "announced_cut_pct": 20.4,
+      "n_versions": 1,
+      "latest_delvid": 15956841,
+      "last_update_ts": "2025-09-30T10:28:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "198344",
+      "status": "completed",
+      "subject": "Job 198344 Station 77 Eminence Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-09",
+      "announced_start": "2025-09-30",
+      "announced_end": "2025-10-05",
+      "original_start": "2025-09-30",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 15950824,
+      "last_update_ts": "2025-09-30T10:28:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1081246",
+      "status": "completed",
+      "subject": "Update - Southeast Louisiana Lateral A (Job 1081246) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-10",
+      "announced_start": "2025-10-01",
+      "announced_end": "2025-10-31",
+      "original_start": "2025-10-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9002040,
+        9011262
+      ],
+      "loc_names": "LAROSE; LAROSE RETURN",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 16201688,
+      "last_update_ts": "2025-10-30T10:19:56",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1008457",
+      "status": "completed",
+      "subject": "Station 60 (Job 1008457) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-10",
+      "announced_start": "2025-10-07",
+      "announced_end": "2025-10-22",
+      "original_start": "2025-10-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1213000,
+      "announced_cut_pct": 17.5,
+      "n_versions": 1,
+      "latest_delvid": 15953843,
+      "last_update_ts": "2025-10-20T10:21:38",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "748348",
+      "status": "completed",
+      "subject": "Jobs #748348 & #670865 Station 195 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-10",
+      "announced_start": "2025-10-13",
+      "announced_end": "2025-11-04",
+      "original_start": "2025-10-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2200000,
+      "announced_cut_pct": 20.6,
+      "n_versions": 2,
+      "latest_delvid": 16195106,
+      "last_update_ts": "2025-10-28T12:42:43",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "670865",
+      "status": "completed",
+      "subject": "Jobs #748348 & #670865 Station 195 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-10",
+      "announced_start": "2025-10-13",
+      "announced_end": "2025-11-04",
+      "original_start": "2025-10-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012103
+      ],
+      "loc_names": "COMPRESSOR STATION 195 MP 1674 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": 2200000,
+      "announced_cut_pct": 20.6,
+      "n_versions": 2,
+      "latest_delvid": 16195106,
+      "last_update_ts": "2025-10-28T12:42:43",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "240432",
+      "status": "completed",
+      "subject": "Update - Station 35 (Job 240432) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-10",
+      "announced_start": "2025-10-15",
+      "announced_end": "2025-11-06",
+      "original_start": "2025-10-14",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 250000,
+      "announced_cut_pct": 64.7,
+      "n_versions": 5,
+      "latest_delvid": 16206155,
+      "last_update_ts": "2025-10-31T15:28:34",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "832367",
+      "status": "completed",
+      "subject": "Update - Job 832367 - Pine View Meter Outage for Planned Maintenance",
+      "work_type": "other",
+      "month": "2025-10",
+      "announced_start": "2025-10-20",
+      "announced_end": "2025-10-22",
+      "original_start": "2025-10-20",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9004982
+      ],
+      "loc_names": "PINE VIEW M3617",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 16162303,
+      "last_update_ts": "2025-10-21T14:14:30",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "551670",
+      "status": "completed",
+      "subject": "Job 551670 Washington Storage Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2025-10",
+      "announced_start": "2025-10-21",
+      "announced_end": "2025-10-27",
+      "original_start": "2025-10-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 16031967,
+      "last_update_ts": "2025-09-30T10:28:53",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1081240",
+      "status": "completed",
+      "subject": "Station 60 (Job 1081240) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2025-11",
+      "announced_start": "2025-11-07",
+      "announced_end": "2025-11-11",
+      "original_start": "2025-11-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1518000,
+      "announced_cut_pct": 0.0,
+      "n_versions": 1,
+      "latest_delvid": 16157991,
+      "last_update_ts": "2025-10-31T15:28:34",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071388",
+      "status": "completed",
+      "subject": "Update - Unplanned Maintenance Station 60 Outage 2025",
+      "work_type": "pigging_ili",
+      "month": "2025-12",
+      "announced_start": "2025-12-03",
+      "announced_end": "2025-12-07",
+      "original_start": "2025-07-15",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9000000,
+        1006831
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL; CLINTON MIDLA M4399",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1300000,
+      "announced_cut_pct": 11.6,
+      "n_versions": 4,
+      "latest_delvid": 16322736,
+      "last_update_ts": "2025-12-07T09:49:34",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071378",
+      "status": "completed",
+      "subject": "Station 50 (Job 1071378) 2025 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2025-12",
+      "announced_start": "2025-12-09",
+      "announced_end": "2025-12-18",
+      "original_start": "2025-12-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013363
+      ],
+      "loc_names": "COMPRESSOR STATION W 50 MP 517.23 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1200000,
+      "announced_cut_pct": 21.9,
+      "n_versions": 1,
+      "latest_delvid": 16146632,
+      "last_update_ts": "2025-11-26T09:52:46",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1071389",
+      "status": "completed",
+      "subject": "Update - Station 50 (Job 1071389) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-01",
+      "announced_start": "2026-01-13",
+      "announced_end": "2026-01-23",
+      "original_start": "2025-10-07",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9013363
+      ],
+      "loc_names": "COMPRESSOR STATION W 50 MP 517.23 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1200000,
+      "announced_cut_pct": 21.9,
+      "n_versions": 3,
+      "latest_delvid": 16456085,
+      "last_update_ts": "2026-01-15T14:27:05",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "136501",
+      "status": "completed",
+      "subject": "Update - Station 35 (Job 136501) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-02",
+      "announced_start": "2026-02-09",
+      "announced_end": "2026-02-20",
+      "original_start": "2026-02-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 569000,
+      "announced_cut_pct": 19.7,
+      "n_versions": 2,
+      "latest_delvid": 16474354,
+      "last_update_ts": "2026-02-02T10:44:50",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "130994",
+      "status": "completed",
+      "subject": "Update - South Texas Anomaly Digs (Job 130994) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-03",
+      "announced_start": "2026-03-03",
+      "announced_end": "2026-03-09",
+      "original_start": "2026-03-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9013184,
+        9011641,
+        1006391,
+        9007242,
+        9007342
+      ],
+      "loc_names": "9013184; STATION 23 MP 204 N to S NL; VICTORIA INVST M4400; SHERRILL ROAD M3648; PRATKA #1 M1767",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 2,
+      "latest_delvid": 16639566,
+      "last_update_ts": "2026-03-08T17:25:34",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "631201",
+      "status": "completed",
+      "subject": "Update - Station 50 (Job 631201) Outage 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-03",
+      "announced_start": "2026-03-09",
+      "announced_end": "2026-03-10",
+      "original_start": "2026-03-03",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9013363
+      ],
+      "loc_names": "COMPRESSOR STATION W 50 MP 517.23 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1265000,
+      "announced_cut_pct": 17.6,
+      "n_versions": 3,
+      "latest_delvid": 16636886,
+      "last_update_ts": "2026-03-07T16:43:20",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1170417",
+      "status": "completed",
+      "subject": "Update: Station 160 (Job 1170417) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-03",
+      "announced_start": "2026-03-17",
+      "announced_end": "2026-03-19",
+      "original_start": "2026-03-17",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1879000,
+      "announced_cut_pct": 15.4,
+      "n_versions": 2,
+      "latest_delvid": 16672928,
+      "last_update_ts": "2026-03-19T15:02:18",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "838247",
+      "status": "completed",
+      "subject": "Update - Station 35 Outage (Job 134423 & 838247) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-03",
+      "announced_start": "2026-03-17",
+      "announced_end": "2026-03-26",
+      "original_start": "2026-03-17",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 569000,
+      "announced_cut_pct": 19.7,
+      "n_versions": 2,
+      "latest_delvid": 16669484,
+      "last_update_ts": "2026-03-18T15:06:49",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "770408",
+      "status": "completed",
+      "subject": "Station 190 MU13 (Job 770408) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-04",
+      "announced_start": "2026-04-07",
+      "announced_end": "2026-04-09",
+      "original_start": "2026-04-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011620
+      ],
+      "loc_names": "COMPRESSOR STATION 190 MP 1628.78 N to S NL",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 16624177,
+      "last_update_ts": "2026-03-25T12:06:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "327479",
+      "status": "completed",
+      "subject": "Station 35 ESD Test (Job 327479) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-04",
+      "announced_start": "2026-04-07",
+      "announced_end": "2026-04-07",
+      "original_start": "2026-04-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 569000,
+      "announced_cut_pct": 19.7,
+      "n_versions": 1,
+      "latest_delvid": 16654056,
+      "last_update_ts": "2026-05-21T10:50:02",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "185568",
+      "status": "completed",
+      "subject": "Sinton Meter Station/Station 17 (Job 185568 & 185563) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-04",
+      "announced_start": "2026-04-13",
+      "announced_end": "2026-04-17",
+      "original_start": "2026-04-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010299
+      ],
+      "loc_names": "SINTON M4669",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 1,
+      "latest_delvid": 16629584,
+      "last_update_ts": "2026-03-25T12:06:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "185563",
+      "status": "completed",
+      "subject": "Sinton Meter Station/Station 17 (Job 185568 & 185563) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-04",
+      "announced_start": "2026-04-13",
+      "announced_end": "2026-04-17",
+      "original_start": "2026-04-13",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010299
+      ],
+      "loc_names": "SINTON M4669",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": 0,
+      "announced_cut_pct": 100.0,
+      "n_versions": 1,
+      "latest_delvid": 16629584,
+      "last_update_ts": "2026-03-25T12:06:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "225671",
+      "status": "completed",
+      "subject": "Washington Storage Semi-Annual (Job 225671) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-04",
+      "announced_start": "2026-04-21",
+      "announced_end": "2026-04-27",
+      "original_start": "2026-04-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 16629588,
+      "last_update_ts": "2026-03-25T12:06:22",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "248697",
+      "status": "completed",
+      "subject": "Update - WFS Markham & Station 30 Wharton West (Job 248697/442387) 2026 Planned Outage & Maintenance",
+      "work_type": "other",
+      "month": "2026-05",
+      "announced_start": "2026-05-03",
+      "announced_end": "2026-05-17",
+      "original_start": "2026-05-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9002300
+      ],
+      "loc_names": "POOLE ROAD M4585",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 2,
+      "latest_delvid": 16858337,
+      "last_update_ts": "2026-05-14T08:56:19",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "442387",
+      "status": "completed",
+      "subject": "WFS Markham CTGS & Station 30 Wharton West (Job 248697 & 442387) 2026 Planned Outage and Maintenance",
+      "work_type": "other",
+      "month": "2026-05",
+      "announced_start": "2026-05-03",
+      "announced_end": "2026-05-16",
+      "original_start": "2026-05-03",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9002300
+      ],
+      "loc_names": "POOLE ROAD M4585",
+      "zones": "1",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 16759353,
+      "last_update_ts": "2026-05-14T08:56:19",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "321645",
+      "status": "completed",
+      "subject": "Station 77 Eminence Storage (Job 321645) Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-05",
+      "announced_start": "2026-05-05",
+      "announced_end": "2026-05-09",
+      "original_start": "2026-05-05",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 16654085,
+      "last_update_ts": "2026-04-28T11:34:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1211791",
+      "status": "completed",
+      "subject": "Station 62-23 SELA Tool Runs (Job 1211791) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-05",
+      "announced_start": "2026-05-12",
+      "announced_end": "2026-05-19",
+      "original_start": "2026-05-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9002760
+      ],
+      "loc_names": "ST JAMES LIG",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 150000,
+      "announced_cut_pct": 62.8,
+      "n_versions": 1,
+      "latest_delvid": 16719976,
+      "last_update_ts": "2026-04-28T11:34:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "124601",
+      "status": "completed",
+      "subject": "Update Job 124601 - Station 85 Main Unit 4 Exchange Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-05",
+      "announced_start": "2026-05-12",
+      "announced_end": "2026-05-16",
+      "original_start": "2026-05-12",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9010958
+      ],
+      "loc_names": "Sta 85 MB LAT MP 1 N to S NL",
+      "zones": "4A",
+      "announced_avail_cap_mmbtu": 650000,
+      "announced_cut_pct": 24.3,
+      "n_versions": 3,
+      "latest_delvid": 16863987,
+      "last_update_ts": "2026-05-16T09:51:47",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "242506",
+      "status": "completed",
+      "subject": "Unplanned Maintenance Station 60 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-05",
+      "announced_start": "2026-05-14",
+      "announced_end": "2026-05-15",
+      "original_start": "2026-05-12",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1250000,
+      "announced_cut_pct": 15.0,
+      "n_versions": 2,
+      "latest_delvid": 16856277,
+      "last_update_ts": "2026-05-13T16:02:49",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1211814",
+      "status": "completed",
+      "subject": "UPDATE - Station 160 Job 1211814 Planned Outage Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-05",
+      "announced_start": "2026-05-21",
+      "announced_end": "2026-06-09",
+      "original_start": "2026-05-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1947000,
+      "announced_cut_pct": 12.4,
+      "n_versions": 2,
+      "latest_delvid": 16896797,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "770449",
+      "status": "active",
+      "subject": "Update-Zone 3 Mainline B Comite River Digs (Job 770449) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "anomaly_dig",
+      "month": "2026-06",
+      "announced_start": "2026-06-01",
+      "announced_end": "2026-07-24",
+      "original_start": "2026-03-03",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1700000,
+      "announced_cut_pct": 0.0,
+      "n_versions": 4,
+      "latest_delvid": 16818235,
+      "last_update_ts": "2026-04-30T13:17:29",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "459772",
+      "status": "completed",
+      "subject": "Job #459772 West Ridge Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-06",
+      "announced_start": "2026-06-01",
+      "announced_end": "2026-06-30",
+      "original_start": "2026-06-01",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011923
+      ],
+      "loc_names": "WEST RIDGE M3671",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 17014292,
+      "last_update_ts": "2026-06-30T08:25:12",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1211792",
+      "status": "completed",
+      "subject": "Station 62-23 SELA C Tool Runs (Job 1211792) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-06",
+      "announced_start": "2026-06-02",
+      "announced_end": "2026-06-04",
+      "original_start": "2026-06-02",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9002760
+      ],
+      "loc_names": "ST JAMES LIG",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 150000,
+      "announced_cut_pct": 62.8,
+      "n_versions": 1,
+      "latest_delvid": 16781377,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1211799",
+      "status": "completed",
+      "subject": "Station 80-100 MLD Tool Runs (Job 1211799) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-06",
+      "announced_start": "2026-06-09",
+      "announced_end": "2026-06-11",
+      "original_start": "2026-06-09",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012383
+      ],
+      "loc_names": "COMPRESSOR STATION 84 MP 784.01 S to N NL",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": 3200000,
+      "announced_cut_pct": 22.5,
+      "n_versions": 1,
+      "latest_delvid": 16815505,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "notice"
+      ]
+    },
+    {
+      "job_id": "1211818",
+      "status": "completed",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-06",
+      "announced_start": "2026-06-09",
+      "announced_end": "2026-06-11",
+      "original_start": "2026-06-09",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211823",
+      "status": "active",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-06",
+      "announced_start": "2026-06-15",
+      "announced_end": "2026-07-17",
+      "original_start": "2026-06-15",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003274,
+        1003276,
+        1003343
+      ],
+      "loc_names": "1003274; 1003276; 1003343",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211836",
+      "status": "completed",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-06",
+      "announced_start": "2026-06-22",
+      "announced_end": "2026-07-09",
+      "original_start": "2026-06-22",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "367383",
+      "status": "completed",
+      "subject": "Update- Job #367383 Cascade Creek Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-06",
+      "announced_start": "2026-06-23",
+      "announced_end": "2026-06-25",
+      "original_start": "2025-03-11",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9001040
+      ],
+      "loc_names": "CASCADE CREEK",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 3,
+      "latest_delvid": 16951041,
+      "last_update_ts": "2026-06-11T09:19:58",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211824",
+      "status": "active",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-06",
+      "announced_end": "2026-07-10",
+      "original_start": "2026-07-06",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003316,
+        1003327,
+        1003865
+      ],
+      "loc_names": "1003316; 1003327; CAMDEN M6310",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138699",
+      "status": "active",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled North to South.",
+      "work_type": "other",
+      "month": "2026-07",
+      "announced_start": "2026-07-06",
+      "announced_end": "2026-07-19",
+      "original_start": "2026-07-06",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "458983",
+      "status": "active",
+      "subject": "Compressor Station Outage - No impact anticipated",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-06",
+      "announced_end": "2026-07-11",
+      "original_start": "2026-07-06",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "461370",
+      "status": "active",
+      "subject": "Line Outage - Meters impacted listed",
+      "work_type": "other",
+      "month": "2026-07",
+      "announced_start": "2026-07-06",
+      "announced_end": "2026-07-10",
+      "original_start": "2026-07-06",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "327549",
+      "status": "active",
+      "subject": "Job 327549 & 477378 Mainline B & Station 155 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-07",
+      "announced_end": "2026-08-29",
+      "original_start": "2026-07-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1726000,
+      "announced_cut_pct": 22.3,
+      "n_versions": 1,
+      "latest_delvid": 16817803,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "477378",
+      "status": "active",
+      "subject": "Job 327549 & 477378 Mainline B & Station 155 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-07",
+      "announced_end": "2026-08-29",
+      "original_start": "2026-07-07",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012663
+      ],
+      "loc_names": "COMPRESSOR STATION 160 MP 1369.45 N to S NL",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": 1726000,
+      "announced_cut_pct": 22.3,
+      "n_versions": 1,
+      "latest_delvid": 16817803,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211812",
+      "status": "completed",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-07",
+      "announced_end": "2026-07-09",
+      "original_start": "2026-07-07",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1200248",
+      "status": "upcoming",
+      "subject": "Station Outage ESD Test - Meters impacted listed",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-13",
+      "announced_end": "2026-07-15",
+      "original_start": "2026-07-13",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9009310
+      ],
+      "loc_names": "LIGHTHOUSE ROAD M4662",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1200328",
+      "status": "upcoming",
+      "subject": "Station Outage ESD Test - Meters impacted listed",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-13",
+      "announced_end": "2026-07-15",
+      "original_start": "2026-07-13",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9009310
+      ],
+      "loc_names": "LIGHTHOUSE ROAD M4662",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "225614",
+      "status": "upcoming",
+      "subject": "Station Outage Separator Install - Meters impacted listed",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-13",
+      "announced_end": "2026-07-15",
+      "original_start": "2026-07-13",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9009310
+      ],
+      "loc_names": "LIGHTHOUSE ROAD M4662",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211830",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-14",
+      "announced_end": "2026-07-16",
+      "original_start": "2026-07-14",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003352,
+        1003461
+      ],
+      "loc_names": "1003352; 1003461",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211827",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-20",
+      "announced_end": "2026-07-23",
+      "original_start": "2026-07-20",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006555,
+        1006621
+      ],
+      "loc_names": "PHILADELPHIA ELEC; PHILADELPHIA GAS WRK",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138700",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-07",
+      "announced_start": "2026-07-20",
+      "announced_end": "2026-08-01",
+      "original_start": "2026-07-20",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "249679",
+      "status": "upcoming",
+      "subject": "Station 40 ESD (Job 249679) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-07",
+      "announced_start": "2026-07-21",
+      "announced_end": "2026-07-23",
+      "original_start": "2026-07-21",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011480
+      ],
+      "loc_names": "COMPRESSOR STATION 40 MP 389.19 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 534000,
+      "announced_cut_pct": 24.7,
+      "n_versions": 1,
+      "latest_delvid": 16880918,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211813",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-21",
+      "announced_end": "2026-07-23",
+      "original_start": "2026-07-21",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1000941,
+        1002730,
+        1003395,
+        1006173,
+        1006562,
+        9008082,
+        9013163
+      ],
+      "loc_names": "EMPORIA WALDROP; 1002730; 1003395; LYNCHBURG; 1006562; 9008082; SPUDS RNG",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "589330",
+      "status": "upcoming",
+      "subject": "Line Outage - Meters impacted listed",
+      "work_type": "other",
+      "month": "2026-07",
+      "announced_start": "2026-07-22",
+      "announced_end": "2026-08-13",
+      "original_start": "2026-07-22",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211829",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-07",
+      "announced_start": "2026-07-28",
+      "announced_end": "2026-07-30",
+      "original_start": "2026-07-28",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "347458",
+      "status": "upcoming",
+      "subject": "Line Outage - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-07",
+      "announced_start": "2026-07-28",
+      "announced_end": "2026-07-31",
+      "original_start": "2026-07-28",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138701",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-02",
+      "announced_end": "2026-08-14",
+      "original_start": "2026-08-02",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211804",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-03",
+      "announced_end": "2026-08-13",
+      "original_start": "2026-08-03",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "136470",
+      "status": "upcoming",
+      "subject": "Anomaly Investigation - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-03",
+      "announced_end": "2026-10-12",
+      "original_start": "2026-08-03",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "130950",
+      "status": "upcoming",
+      "subject": "Station 60 MLA (Job 130950) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-04",
+      "announced_end": "2026-08-10",
+      "original_start": "2026-08-04",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000000
+      ],
+      "loc_names": "COMPRESSOR STATION 60 MP 588.62 S to N NL",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": 1793000,
+      "announced_cut_pct": 0.0,
+      "n_versions": 1,
+      "latest_delvid": 17040930,
+      "last_update_ts": "2026-07-08T13:48:10",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211832",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-04",
+      "announced_end": "2026-08-04",
+      "original_start": "2026-08-04",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "345963",
+      "status": "upcoming",
+      "subject": "Anomaly Investigation - Meters impacted listed",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-05",
+      "announced_end": "2026-08-12",
+      "original_start": "2026-08-05",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006555,
+        1006570,
+        1006587
+      ],
+      "loc_names": "PHILADELPHIA ELEC; EASTERN SHORE; DELMARVA",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477392",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-05",
+      "announced_end": "2026-08-18",
+      "original_start": "2026-08-05",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1002592
+      ],
+      "loc_names": "1002592",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211833",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-06",
+      "announced_end": "2026-08-06",
+      "original_start": "2026-08-06",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138704",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-10",
+      "announced_end": "2026-08-22",
+      "original_start": "2026-08-10",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "134423",
+      "status": "upcoming",
+      "subject": "Station 35 Tool Runs (Job 134423) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-11",
+      "announced_end": "2026-08-27",
+      "original_start": "2026-03-17",
+      "date_basis": "stated",
+      "start_revisions": 1,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 584000,
+      "announced_cut_pct": 17.6,
+      "n_versions": 3,
+      "latest_delvid": 16881851,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211825",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-11",
+      "announced_end": "2026-08-13",
+      "original_start": "2026-08-11",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477391",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-17",
+      "announced_end": "2026-08-29",
+      "original_start": "2026-08-17",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "130940",
+      "status": "upcoming",
+      "subject": "Meter Outage McComb & GS Magnolia (Job 130940) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-18",
+      "announced_end": "2026-08-24",
+      "original_start": "2026-08-18",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1002726,
+        1006175
+      ],
+      "loc_names": "MCCOMB M4483; GULF S-MAGNOLIAM4150",
+      "zones": "4",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17040935,
+      "last_update_ts": "2026-07-08T13:52:39",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "688339",
+      "status": "upcoming",
+      "subject": "Meter Outage Kinder M3371 (Job 688339) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-18",
+      "announced_end": "2026-08-28",
+      "original_start": "2026-08-18",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006149
+      ],
+      "loc_names": "KINDER M3371",
+      "zones": "3",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17040951,
+      "last_update_ts": "2026-07-08T14:00:39",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "1211817",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-18",
+      "announced_end": "2026-08-20",
+      "original_start": "2026-08-18",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9000440,
+        9000441,
+        9000442
+      ],
+      "loc_names": "9000440; 9000441; 9000442",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211835",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Possible impact to the availability of transportation services scheduled North to South.",
+      "work_type": "pigging_ili",
+      "month": "2026-08",
+      "announced_start": "2026-08-18",
+      "announced_end": "2026-08-20",
+      "original_start": "2026-08-18",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "459274",
+      "status": "upcoming",
+      "subject": "Main Unit 3 Turbine Exchange - Possible impact to the availability of transportation services scheduled North to South.",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-18",
+      "announced_end": "2026-08-28",
+      "original_start": "2026-08-18",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138705",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-23",
+      "announced_end": "2026-09-04",
+      "original_start": "2026-08-23",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477390",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-08",
+      "announced_start": "2026-08-30",
+      "announced_end": "2026-09-11",
+      "original_start": "2026-08-30",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211822",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": "2026-09",
+      "announced_start": "2026-09-01",
+      "announced_end": "2026-09-03",
+      "original_start": "2026-09-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138703",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-01",
+      "announced_end": "2026-09-30",
+      "original_start": "2026-09-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "355854",
+      "status": "upcoming",
+      "subject": "Compressor Station Outage - Possible impact to the availability of transportation services scheduled North to South.",
+      "work_type": "compressor",
+      "month": "2026-09",
+      "announced_start": "2026-09-01",
+      "announced_end": "2026-09-15",
+      "original_start": "2026-09-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138706",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-05",
+      "announced_end": "2026-09-17",
+      "original_start": "2026-09-05",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "361708",
+      "status": "upcoming",
+      "subject": "ESD Test - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-08",
+      "announced_end": "2026-09-08",
+      "original_start": "2026-09-08",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "596608",
+      "status": "upcoming",
+      "subject": "Station Outage - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "compressor",
+      "month": "2026-09",
+      "announced_start": "2026-09-08",
+      "announced_end": "2026-09-10",
+      "original_start": "2026-09-08",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "123128",
+      "status": "upcoming",
+      "subject": "Line Outage - Meters impacted listed",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-10",
+      "announced_end": "2026-09-19",
+      "original_start": "2026-09-10",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006555
+      ],
+      "loc_names": "PHILADELPHIA ELEC",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "459285",
+      "status": "upcoming",
+      "subject": "Compressor Station Outage - Possible impact to the availability of transportation services scheduled West to East",
+      "work_type": "compressor",
+      "month": "2026-09",
+      "announced_start": "2026-09-14",
+      "announced_end": "2026-09-28",
+      "original_start": "2026-09-14",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "224549",
+      "status": "upcoming",
+      "subject": "Station 35 Gillis West Expansion (Job 224549) 2026 Planned Outage and Maintenance Summary",
+      "work_type": "compressor",
+      "month": "2026-09",
+      "announced_start": "2026-09-15",
+      "announced_end": "2026-09-28",
+      "original_start": "2026-09-15",
+      "date_basis": "stated",
+      "start_revisions": 0,
+      "loc_ids": [
+        9011644
+      ],
+      "loc_names": "MAINLINE STATION 35 MP 327.27 S to N NL",
+      "zones": "2",
+      "announced_avail_cap_mmbtu": 574000,
+      "announced_cut_pct": 19.0,
+      "n_versions": 1,
+      "latest_delvid": 16880704,
+      "last_update_ts": "2026-05-28T10:37:54",
+      "sources": [
+        "both"
+      ]
+    },
+    {
+      "job_id": "422337",
+      "status": "upcoming",
+      "subject": "Station Outage - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "compressor",
+      "month": "2026-09",
+      "announced_start": "2026-09-15",
+      "announced_end": "2026-09-17",
+      "original_start": "2026-09-15",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "366102",
+      "status": "upcoming",
+      "subject": "Line Outage - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-16",
+      "announced_end": "2026-10-21",
+      "original_start": "2026-09-16",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138707",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-09",
+      "announced_start": "2026-09-18",
+      "announced_end": "2026-09-30",
+      "original_start": "2026-09-18",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138696",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-01",
+      "announced_end": "2026-10-31",
+      "original_start": "2026-10-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138709",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-01",
+      "announced_end": "2026-10-31",
+      "original_start": "2026-10-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477382",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled North to South.",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-01",
+      "announced_end": "2026-11-05",
+      "original_start": "2026-10-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477388",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-01",
+      "announced_end": "2026-10-31",
+      "original_start": "2026-10-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "544619",
+      "status": "upcoming",
+      "subject": "Line Outage - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-01",
+      "announced_end": "2026-10-31",
+      "original_start": "2026-10-01",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211828",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": "2026-10",
+      "announced_start": "2026-10-08",
+      "announced_end": "2026-10-08",
+      "original_start": "2026-10-08",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1003323,
+        1003340,
+        1003341,
+        9012223
+      ],
+      "loc_names": "1003323; 1003340; 1003341; KEARNY - PARKWAY M6236",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "494315",
+      "status": "upcoming",
+      "subject": "Meter Station Outage - Meters impacted listed",
+      "work_type": "compressor",
+      "month": "2026-10",
+      "announced_start": "2026-10-10",
+      "announced_end": "2026-10-16",
+      "original_start": "2026-10-10",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        1006744
+      ],
+      "loc_names": "1006744",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "138682",
+      "status": "upcoming",
+      "subject": "Southeast Supply Enhancement - No impact anticipated",
+      "work_type": "other",
+      "month": "2026-10",
+      "announced_start": "2026-10-12",
+      "announced_end": "2026-10-22",
+      "original_start": "2026-10-12",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "361662",
+      "status": "upcoming",
+      "subject": "Compressor Station Outage - Operating Conditions resulting from this planned maintenance may require Transco to reduce the availability of injection/withdrawal ",
+      "work_type": "compressor",
+      "month": "2026-10",
+      "announced_start": "2026-10-19",
+      "announced_end": "2026-11-03",
+      "original_start": "2026-10-19",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211807",
+      "status": "upcoming",
+      "subject": "Pipeline Inspection - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "pigging_ili",
+      "month": "2026-11",
+      "announced_start": "2026-11-30",
+      "announced_end": "2026-12-09",
+      "original_start": "2026-11-30",
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211798",
+      "status": "active",
+      "subject": "Pipeline Inspection - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "pigging_ili",
+      "month": null,
+      "announced_start": null,
+      "announced_end": null,
+      "original_start": null,
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211805",
+      "status": "active",
+      "subject": "Pipeline Inspection - Possible impact to the availability of transportation services scheduled South to North.",
+      "work_type": "pigging_ili",
+      "month": null,
+      "announced_start": null,
+      "announced_end": null,
+      "original_start": null,
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "1211834",
+      "status": "active",
+      "subject": "Pipeline Inspection - Customer coordination required. Potential meter impact.",
+      "work_type": "pigging_ili",
+      "month": null,
+      "announced_start": null,
+      "announced_end": null,
+      "original_start": null,
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9006583,
+        9006602
+      ],
+      "loc_names": "BEC M6323; DELANCY M6332",
+      "zones": "6",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "41199",
+      "status": "active",
+      "subject": "Pipeline Inspection - No impact anticipated.",
+      "work_type": "pigging_ili",
+      "month": null,
+      "announced_start": null,
+      "announced_end": null,
+      "original_start": null,
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [],
+      "loc_names": "",
+      "zones": "",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    },
+    {
+      "job_id": "477375",
+      "status": "active",
+      "subject": "Line Outage - No impact anticipated",
+      "work_type": "other",
+      "month": null,
+      "announced_start": null,
+      "announced_end": null,
+      "original_start": null,
+      "date_basis": "calendar",
+      "start_revisions": 0,
+      "loc_ids": [
+        9012610
+      ],
+      "loc_names": "CHERRYSTONE M3670",
+      "zones": "5",
+      "announced_avail_cap_mmbtu": null,
+      "announced_cut_pct": null,
+      "n_versions": 1,
+      "latest_delvid": 17043258,
+      "last_update_ts": "2026-07-09T08:00:31",
+      "sources": [
+        "calendar"
+      ]
+    }
+  ]
+}
