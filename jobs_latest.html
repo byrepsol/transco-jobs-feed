@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -11,7 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 /* ==== VERBATIM COPY of src/web/static/style.css (PipelineFlows) ==== */
-/* â”€â”€ Base â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Base --- */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
@@ -65,7 +65,7 @@ body {
 ::-webkit-scrollbar-thumb { background: #444444; border-radius: 0; }
 ::-webkit-scrollbar-thumb:hover { background: #555555; }
 
-/* â”€â”€ Header (Status Bar) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Header (Status Bar) --- */
 header {
     display: flex;
     align-items: center;
@@ -134,7 +134,7 @@ nav a:hover {
     background: var(--bg-hover);
 }
 
-/* Short nav labels â€” hidden by default, shown on mobile */
+/* Short nav labels --- hidden by default, shown on mobile */
 .nav-short { display: none; }
 .nav-full { display: inline; }
 
@@ -148,7 +148,7 @@ nav a.active::after {
     display: none;
 }
 
-/* â”€â”€ Controls â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Controls --- */
 .controls {
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@ nav a.active::after {
     font-weight: 400;
 }
 
-/* â”€â”€ Filter Toggle (hidden on desktop, shown on mobile) â”€â”€â”€ */
+/* --- Filter Toggle (hidden on desktop, shown on mobile) --- */
 .filter-toggle {
     display: none;
     background: var(--bg-surface);
@@ -293,7 +293,7 @@ nav a.active::after {
     pointer-events: auto;
 }
 
-/* â”€â”€ Main Layout â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Main Layout --- */
 .main-layout {
     display: flex;
     height: calc(100vh - 72px);
@@ -363,7 +363,7 @@ nav a.active::after {
     min-height: 300px;
 }
 
-/* â”€â”€ Zone Map â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Zone Map --- */
 #zone-map {
     display: flex;
     flex-direction: column;
@@ -504,7 +504,7 @@ nav a.active::after {
     letter-spacing: 0.02em;
 }
 
-/* Utilization colors â€” white <80% | orange 80% | dark orange 87.5% | light red 95% | red 100%+ */
+/* Utilization colors --- white <80% | orange 80% | dark orange 87.5% | light red 95% | red 100%+ */
 .util-low { color: var(--text-primary); }
 .util-med { color: var(--orange); }
 .util-high { color: #e05a00; }
@@ -517,7 +517,7 @@ nav a.active::after {
 .util-badge.util-warn { background: rgba(255, 107, 107, 0.15); }
 .util-badge.util-crit { background: var(--red-dim); }
 
-/* â”€â”€ Inline Accordion Charts â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Inline Accordion Charts --- */
 .seg-expand-arrow {
     font-size: 10px;
     color: var(--text-muted);
@@ -624,7 +624,7 @@ nav a.active::after {
     letter-spacing: 0.06em;
 }
 
-/* â”€â”€ Control Center â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Control Center --- */
 .control-layout {
     padding: 16px 20px;
     max-width: 1100px;
@@ -661,7 +661,7 @@ nav a.active::after {
     background: var(--bg-hover);
 }
 
-/* â”€â”€ System Banner â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- System Banner --- */
 .system-banner {
     display: none;
     align-items: center;
@@ -747,7 +747,7 @@ nav a.active::after {
 .system-warn .system-text { color: var(--orange); }
 .system-err .system-text { color: var(--red); }
 
-/* â”€â”€ Data Freshness Grid â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Data Freshness Grid --- */
 .freshness-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -810,7 +810,7 @@ nav a.active::after {
 .fresh-err .fresh-status { color: var(--red); }
 .fresh-err .fresh-date { color: var(--red); }
 
-/* â”€â”€ Backfill Split Layout â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Backfill Split Layout --- */
 .backfill-split {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
@@ -894,7 +894,7 @@ nav a.active::after {
     font-variant-numeric: tabular-nums;
 }
 
-/* â”€â”€ DB Footer â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- DB Footer --- */
 .db-footer {
     display: flex;
     justify-content: center;
@@ -1010,7 +1010,7 @@ nav a.active::after {
     font-weight: 500;
 }
 
-/* â”€â”€ Scraper Health Dashboard â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Scraper Health Dashboard --- */
 .scraper-dashboard {
     display: grid;
     grid-template-columns: 1fr 1.5fr 1fr;
@@ -1197,7 +1197,7 @@ nav a.active::after {
     width: 100%;
 }
 
-/* â”€â”€ Action Cards â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Action Cards --- */
 .action-grid {
     padding: 14px;
     display: grid;
@@ -1274,7 +1274,7 @@ nav a.active::after {
     transform: scale(0.97);
 }
 
-/* â”€â”€ Admin Panel â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Admin Panel --- */
 .admin-login-card {
     padding: 20px 16px;
     text-align: center;
@@ -1446,7 +1446,7 @@ nav a.active::after {
     cursor: help;
 }
 
-/* â”€â”€ Scraper Log â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Scraper Log --- */
 .scraper-log {
     padding: 12px 14px;
     font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
@@ -1474,7 +1474,7 @@ nav a.active::after {
 .log-ok { color: var(--green); }
 .log-fail { color: var(--red); }
 
-/* â”€â”€ Cycle Schedule Table â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Cycle Schedule Table --- */
 .cycle-table {
     width: 100%;
     border-collapse: collapse;
@@ -1558,7 +1558,7 @@ nav a.active::after {
     color: var(--accent);
 }
 
-/* â”€â”€ Dataset Inventory â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Dataset Inventory --- */
 .section-toggle {
     cursor: pointer;
     user-select: none;
@@ -1692,7 +1692,7 @@ nav a.active::after {
     padding: 4px 0;
 }
 
-/* â”€â”€ Mobile / iPhone Responsive â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Mobile / iPhone Responsive --- */
 
 @media (max-width: 640px) {
 
@@ -1723,7 +1723,7 @@ nav a.active::after {
         min-width: 0;
     }
 
-    /* Show full nav labels â€” pipe selector is compact enough */
+    /* Show full nav labels --- pipe selector is compact enough */
     .nav-full { display: inline !important; }
     .nav-short { display: none !important; }
 
@@ -1749,12 +1749,12 @@ nav a.active::after {
         min-width: 0;
     }
 
-    /* â”€â”€ Filter toggle button (mobile only) â”€â”€ */
+    /* --- Filter toggle button (mobile only) --- */
     .filter-toggle {
         display: flex !important;
     }
 
-    /* Hide controls bar by default on mobile â€” shown via filter button */
+    /* Hide controls bar by default on mobile --- shown via filter button */
     .controls {
         display: flex;
         position: fixed;
@@ -1787,7 +1787,7 @@ nav a.active::after {
         font-size: 14px !important;
     }
 
-    /* Filter header (close button) â€” only visible on mobile */
+    /* Filter header (close button) --- only visible on mobile */
     .filter-header {
         display: flex !important;
     }
@@ -1861,7 +1861,7 @@ nav a.active::after {
         font-size: 10px;
     }
 
-    /* Cycle Schedule table â€” fit on screen, no horizontal scroll */
+    /* Cycle Schedule table --- fit on screen, no horizontal scroll */
     .control-section {
         overflow-x: hidden;
     }
@@ -1909,7 +1909,7 @@ nav a.active::after {
         padding: 4px 4px;
     }
 
-    /* Backfill split on mobile â€” keep side by side */
+    /* Backfill split on mobile --- keep side by side */
     .backfill-half {
         padding: 8px 6px;
     }
@@ -2004,7 +2004,7 @@ nav a.active::after {
 
     /* Scraper dashboard: already 1-col via 1000px query */
 
-    /* Buttons â€” bigger touch targets */
+    /* Buttons --- bigger touch targets */
     .btn, .btn-sm {
         font-size: 11px;
         padding: 8px 14px;
@@ -2022,7 +2022,7 @@ nav a.active::after {
         display: none;
     }
 
-    /* DB footer â€” hide on mobile */
+    /* DB footer --- hide on mobile */
     .db-footer {
         display: none;
     }
@@ -2094,7 +2094,7 @@ nav a.active::after {
     }
 }
 
-/* â”€â”€ Loading overlay (shared by Map + Maintenance pages) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+/* --- Loading overlay (shared by Map + Maintenance pages) ---
    Anchored to a positioned parent. Helpers _showLoading(id, label) and
    _hideLoading(id) live in pipeline_map.js (map) and oir.js (oir). */
 .loading-overlay {
@@ -2138,7 +2138,7 @@ nav a.active::after {
 }
 
 /* ==== VERBATIM COPY of src/web/static/oir.css (PipelineFlows) ==== */
-/* â”€â”€ OIR Impact Report Page â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- OIR Impact Report Page --- */
 
 .oir-layout {
     max-width: 1400px;
@@ -2381,7 +2381,7 @@ nav a.active::after {
     margin-bottom: 8px;
     overflow: hidden;
     transition: border-color var(--transition);
-    /* Isolate each section's paint from siblings â€” hovering or
+    /* Isolate each section's paint from siblings --- hovering or
        expanding one section can't trigger paint in another. Safe (no
        layout side effects) since sections already have explicit borders
        and don't affect outer geometry. */
@@ -2440,7 +2440,7 @@ nav a.active::after {
     display: block;
 }
 
-/* â”€â”€ IMPACT SUMMARY â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- IMPACT SUMMARY --- */
 
 .impact-summary {
     padding: 10px 14px;
@@ -2570,7 +2570,7 @@ nav a.active::after {
     font-variant-numeric: tabular-nums;
 }
 
-/* Impact cells colored by OIR color â€” background + text */
+/* Impact cells colored by OIR color --- background + text */
 td.impact-oir-red {
     background: rgba(255, 23, 68, 0.35) !important;
 }
@@ -2639,7 +2639,7 @@ td.impact-oir-yellow {
     font-size: 9px;
 }
 
-/* No OIR color â€” white numbers */
+/* No OIR color --- white numbers */
 .impact-nocolor .impact-bite-val {
     color: var(--text-primary);
     font-weight: 500;
@@ -2796,7 +2796,7 @@ td.impact-oir-yellow {
     box-shadow: inset 3px 0 0 var(--accent);
 }
 
-/* Cell color fills â€” td qualifier for specificity over .oir-table td */
+/* Cell color fills --- td qualifier for specificity over .oir-table td */
 td.cell-color-red {
     background: rgba(255, 23, 68, 0.35) !important;
     color: #fff;
@@ -2813,7 +2813,7 @@ td.cell-color-yellow {
     font-weight: 700;
 }
 
-/* No OIR color â€” plain white numbers */
+/* No OIR color --- plain white numbers */
 td.cell-cut {
     color: var(--text-primary);
     font-weight: 500;
@@ -2823,7 +2823,7 @@ td.cell-ok {
     color: var(--text-primary);
 }
 
-/* â”€â”€ POINT MAPPINGS (Drag & Drop) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- POINT MAPPINGS (Drag & Drop) --- */
 
 .mappings-info {
     font-size: 11px;
@@ -3044,7 +3044,7 @@ tr.row-unmatched td {
     border-color: var(--red);
 }
 
-/* â”€â”€ Mobile / iPhone Responsive â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Mobile / iPhone Responsive --- */
 
 @media (max-width: 640px) {
     .oir-layout {
@@ -3168,7 +3168,7 @@ tr.row-unmatched td {
     }
 }
 
-/* â”€â”€ VIEW TOGGLE (Current / Compare) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- VIEW TOGGLE (Current / Compare) --- */
 
 .oir-view-toggle {
     display: flex;
@@ -3207,7 +3207,7 @@ tr.row-unmatched td {
     border-color: var(--accent);
 }
 
-/* â”€â”€ WEEK-OVER-WEEK COMPARISON â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- WEEK-OVER-WEEK COMPARISON --- */
 
 .compare-empty {
     text-align: center;
@@ -3310,7 +3310,7 @@ tr.row-unmatched td {
 
 /* Auto-open first section */
 .compare-section:first-of-type {
-    /* opened via JS â€” renderCompare adds .open to first */
+    /* opened via JS --- renderCompare adds .open to first */
 }
 
 /* Type badges in section header */
@@ -3514,7 +3514,7 @@ tr.row-unmatched td {
     letter-spacing: 0.06em;
 }
 
-/* â”€â”€ WoodMac Maintenance Events â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- WoodMac Maintenance Events --- */
 
 .wm-event {
     padding: 12px 14px;
@@ -3570,7 +3570,7 @@ tr.row-unmatched td {
     overflow: hidden;
 }
 
-/* â”€â”€ Station History Modal â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Station History Modal --- */
 
 .history-modal-overlay {
     display: none;
@@ -3679,7 +3679,7 @@ tr.row-unmatched td {
     margin-top: 4px;
 }
 
-/* â”€â”€ Sortable Table Headers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Sortable Table Headers --- */
 
 th.sortable {
     cursor: pointer;
@@ -3703,7 +3703,7 @@ th.sortable.sort-desc .sort-icon {
     color: var(--accent, #60a5fa);
 }
 
-/* â”€â”€ Comparison Mobile Responsive â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- Comparison Mobile Responsive --- */
 
 @media (max-width: 640px) {
     .oir-view-toggle {
@@ -3755,7 +3755,7 @@ td.event-cell:hover {
     outline-offset: -2px;
 }
 
-/* â”€â”€â”€ DATA SOURCE TOGGLE (Posted / Realistic) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- DATA SOURCE TOGGLE (Posted / Realistic) --- */
 .data-source-toggle { display: flex; align-items: center; gap: 8px; }
 .data-source-toggle .src-btn {
     font-size: 12px;
@@ -3765,7 +3765,7 @@ td.event-cell:hover {
     font-style: italic;
 }
 
-/* â”€â”€â”€ SERIOUSNESS CHIP (Realistic view) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- SERIOUSNESS CHIP (Realistic view) --- */
 /* Professional pill: subtle bg, colored status dot, uppercase label, tabular score */
 .seriousness-chip {
     display: inline-flex;
@@ -3831,7 +3831,7 @@ td.event-cell:hover {
 }
 .seriousness-chip.chip-untested::before { background: #64748b; }
 
-/* â”€â”€â”€ PURPLE EVENT OVERRIDES â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* --- PURPLE EVENT OVERRIDES --- */
 
 .purple-override-btn {
     display: inline-flex;
