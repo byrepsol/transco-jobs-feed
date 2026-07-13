@@ -4047,7 +4047,7 @@ td.event-cell:hover {
 <div class="oir-layout">
     <div class="oir-header">
         <div class="oir-header-left">
-            <h2 id="oir-title">Maintenance Events</h2>
+            <h2 id="oir-title">Maintenance</h2>
             <div class="oir-subtitle" id="oir-subtitle">Loading...</div>
         </div>
         <div class="oir-header-right">
@@ -11275,6 +11275,28 @@ function dayCell(e,ov){
   return `<td class="impact-cell event-cell" style="text-align:center;"><div class="impact-bite-val" style="opacity:0.6;">${lost>0?fmtFlow(lost):"--"}</div><div class="impact-bite-label" style="opacity:0.4;">no baseline</div></td>`;
 }
 
+/* True when this job has a real posted cut: expected_lost_flow_mmbtu not null
+   AND > 0. These "at risk" rows stay in the day-by-day grid; a null (never
+   assessed) or a genuine zero is NOT a cut and moves to the collapsed
+   "Scheduled - Impact Not Posted" list (the analog of Titan's Full OIR Table). */
+function isCut(e){
+  return e.expected_lost_flow_mmbtu!=null && Number(e.expected_lost_flow_mmbtu)>0;
+}
+
+/* Reason a scheduled job carries no posted cut, for the collapsed table's Status
+   cell. Priority: postponed first, then a genuine computed zero ("No cut
+   posted"), then an un-assessed job that still has a flow baseline ("Not
+   assessed"), else no flow baseline at all ("No baseline"). */
+function notPostedStatus(e){
+  const cs=String(e.calendar_status||"");
+  if(cs.toLowerCase().indexOf("postpon")>=0) return "Outage Postponed";
+  const assessed=e.expected_lost_flow_mmbtu!=null;
+  const lost=e._lost, avg=e._avgFlow;
+  if(assessed && lost===0) return "No cut posted";
+  if(!assessed && avg>0) return "Not assessed";
+  return "No baseline";
+}
+
 function toggleColorKey(){
   const pop=document.getElementById("color-key-popup");
   const btn=document.getElementById("color-key-btn");
@@ -11312,17 +11334,37 @@ function render(){
     events.push(Object.assign({},r,{_status:st,_avgFlow:avgFlow,_lost:lost,_lostPct:lostPct}));
   }
 
-  const active=events.filter(e=>e._status==="active").length;
-  const upcoming=events.length-active;
-  let gen="";
-  if(FEED&&FEED.generated_at){ gen=" · Refreshed "+esc(FEED.generated_at.slice(0,16)); }
+  // Header subline (Titan's TGP OIR header verbatim): "Week of <Mon> - <Sun>"
+  // spanning the current week (Monday through Sunday that contains today),
+  // mirroring loadOIR's `Week of ${oir_week_start} - ${oir_week_end}`.
+  const wkMon=new Date(today);
+  wkMon.setDate(today.getDate()-((today.getDay()+6)%7));
+  const wkSun=new Date(wkMon); wkSun.setDate(wkMon.getDate()+6);
   document.getElementById("oir-subtitle").textContent=
-    `${active} active · ${upcoming} upcoming${gen}`;
+    `Week of ${ymdLocal(wkMon)} - ${ymdLocal(wkSun)}`;
+  // Stale-feed safety note - MOVED OUT of the header (never lost): when the feed
+  // is marked stale (unreachable / old), surface a small cached indicator above
+  // the sections so nobody trusts a frozen snapshot.
+  if(FEED&&FEED._stale){
+    const note=document.createElement("div");
+    note.className="oir-subtitle";
+    note.style.cssText="color:var(--yellow);margin-bottom:8px;";
+    const g=FEED.generated_at?` (generated ${FEED.generated_at.slice(0,16).replace("T"," ")})`:"";
+    note.textContent=`Showing last cached feed${g}.`;
+    container.parentNode.insertBefore(note, container);
+  }
 
-  // Bucket - mirrors loadWoodMacImpact (This Week / Rest of <Month> / <Month>
+  // Split into the two views mirroring Titan's TGP layout: jobs with a real
+  // posted cut ("at risk") fill the prominent day-by-day grid; everything else
+  // (not assessed / genuine zero / no baseline / postponed) is collected for the
+  // single collapsed "Scheduled - Impact Not Posted" list rendered below.
+  const cutEvents=events.filter(isCut);
+  const notPosted=events.filter(e=>!isCut(e));
+
+  // Bucket - mirrors loadWoodMacImpact (Seven Day Forecast / Rest of <Month> / <Month>
   // <Year> / Ongoing), plus an Undated bucket for TBD jobs (kept, not dropped).
   const buckets={};
-  for(const e of events){
+  for(const e of cutEvents){
     const start=e.announced_start, end=e.announced_end;
     let bucket;
     if(!start){ bucket="Undated"; }
@@ -11330,19 +11372,19 @@ function render(){
       const span=daysBetween(start,end);
       const activeNow=start<=todayStr && (end==null || end>=todayStr);
       if(activeNow && (end==null || (span!=null && span>=LONG_TERM_DAYS))) bucket="Ongoing";
-      else if(activeNow) bucket="This Week";
-      else if(start>todayStr && start<=weekEndStr) bucket="This Week";
+      else if(activeNow) bucket="Seven Day Forecast";
+      else if(start>todayStr && start<=weekEndStr) bucket="Seven Day Forecast";
       else if(start>weekEndStr && start<=monthEndStr) bucket=`Rest of ${MONTHS[today.getMonth()]}`;
       else if(start>monthEndStr){ const d=new Date(start+"T00:00:00"); bucket=`${MONTHS[d.getMonth()]} ${d.getFullYear()}`; }
-      else bucket="This Week"; // past-start straggler - keep, don't drop
+      else bucket="Seven Day Forecast"; // past-start straggler - keep, don't drop
     }
     (buckets[bucket]=buckets[bucket]||[]).push(e);
   }
 
-  // Order: This Week, Rest of <Month>, future months chronologically, Ongoing,
+  // Order: Seven Day Forecast, Rest of <Month>, future months chronologically, Ongoing,
   // Undated last.
   const order=Object.keys(buckets).sort((a,b)=>{
-    const rank=n=>{ if(n==="This Week")return 0; if(n.startsWith("Rest of"))return 1; if(n==="Ongoing")return 3; if(n==="Undated")return 4; return 2; };
+    const rank=n=>{ if(n==="Seven Day Forecast")return 0; if(n.startsWith("Rest of"))return 1; if(n==="Ongoing")return 3; if(n==="Undated")return 4; return 2; };
     const ra=rank(a), rb=rank(b);
     if(ra!==rb) return ra-rb;
     const ad=(buckets[a][0]&&buckets[a][0].announced_start)||"";
@@ -11365,7 +11407,10 @@ function render(){
       return Number(a.job_id)-Number(b.job_id);
     });
 
-    const atRisk=evs.filter(e=>e._lostPct>0).length;
+    // Every row in this grid is a real posted cut, so the At Risk count is just
+    // the row count. Sections with no cut jobs are never built (their jobs are in
+    // the collapsed list), so "No Cuts" here is a defensive fallback only.
+    const atRisk=evs.length;
     const badge=atRisk>0
       ? `<span class="badge badge-err">${atRisk} At Risk</span>`
       : `<span class="badge badge-ok">No Cuts</span>`;
@@ -11403,6 +11448,47 @@ function render(){
     }
     html+=`</tbody></table></div></div></div></div>`;
   });
+
+  // Collapsed "Scheduled - Impact Not Posted" list (CLOSED by default), rendered
+  // once below every time-section. The analog of Titan's collapsed Full OIR
+  // Table: nothing is dropped, the no-posted-cut jobs are just moved out of the
+  // prominent grid into a compact Location / Dir / Dates / Status table. Sorted
+  // by announced start ascending, undated last.
+  if(notPosted.length){
+    const npSorted=notPosted.slice().sort((a,b)=>{
+      const as=a.announced_start, bs=b.announced_start;
+      if(!as && !bs) return 0;
+      if(!as) return 1;
+      if(!bs) return -1;
+      return as.localeCompare(bs);
+    });
+    let npRows="";
+    for(const e of npSorted){
+      const loc=cleanLoc(e);
+      const dir=parseCompass(e.loc_names)||"--";
+      const dates=e.announced_start?fmtDateRange(e.announced_start,e.announced_end):"TBD";
+      const status=notPostedStatus(e);
+      npRows+=`<tr>
+            <td class="impact-name">${esc(loc)}${jobSublabel(e)}</td>
+            <td>${esc(dir)}</td>
+            <td>${esc(dates)}</td>
+            <td>${esc(status)}</td>
+        </tr>`;
+    }
+    const npBadge=`<span class="badge" style="background:var(--bg-elevated);color:var(--text-muted);">${notPosted.length}</span>`;
+    html+=`<div class="oir-section">
+        <div class="oir-section-header" onclick="this.parentElement.classList.toggle('open')">
+            <div><span class="oir-section-name">Scheduled - Impact Not Posted</span></div>
+            <div class="oir-section-badge">${npBadge}<span class="oir-section-arrow">&#9660;</span></div>
+        </div>
+        <div class="oir-section-body">
+        <div class="impact-summary"><div class="impact-table-wrap">
+            <table class="impact-table">
+                <thead><tr><th>Location</th><th>Dir</th><th>Dates</th><th>Status</th></tr></thead>
+                <tbody>${npRows}</tbody>
+            </table>
+        </div></div></div></div>`;
+  }
 
   container.innerHTML=html||`<div style="text-align:center; color:var(--text-muted); padding:40px;">No upcoming maintenance.</div>`;
 }
